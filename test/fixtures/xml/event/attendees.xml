@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lfm status="ok">
+    <attendees event="328799" total="41" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" >
+        <user>
+            <name>ikea</name>
+            <realname>Jane</realname>
+            <image size="small">http://userserve-ak.last.fm/serve/34/17805805.jpg</image>
+            <image size="medium">http://userserve-ak.last.fm/serve/64/17805805.jpg</image>
+            <image size="large">http://userserve-ak.last.fm/serve/126/17805805.jpg</image>
+            <url>http://www.last.fm/user/ikea</url>
+        </user>
+        <user>
+            <name>Schrollum</name>
+            <realname></realname>
+            <image size="small">http://userserve-ak.last.fm/serve/34/13180545.jpg</image>
+            <image size="medium">http://userserve-ak.last.fm/serve/64/13180545.jpg</image>
+            <image size="large">http://userserve-ak.last.fm/serve/126/13180545.jpg</image>
+            <url>http://www.last.fm/user/Schrollum</url>
+        </user>
+        <user>
+            <name>Alpha1</name>
+            <realname>Pierre Nel</realname>
+            <image size="small">http://userserve-ak.last.fm/serve/34/706797.jpg</image>
+            <image size="medium">http://userserve-ak.last.fm/serve/64/706797.jpg</image>
+            <image size="large">http://userserve-ak.last.fm/serve/126/706797.jpg</image>
+            <url>http://www.last.fm/user/Alpha1</url>
+        </user>
+        <user>
+            <name>japps</name>
+            <realname>jo apps</realname>
+            <image size="small">http://userserve-ak.last.fm/serve/34/14681975.jpg</image>
+            <image size="medium">http://userserve-ak.last.fm/serve/64/14681975.jpg</image>
+            <image size="large">http://userserve-ak.last.fm/serve/126/14681975.jpg</image>
+            <url>http://www.last.fm/user/japps</url>
+        </user>
+        <user>
+            <name>Gomhen</name>
+            <realname>Alex</realname>
+            <image size="small">http://userserve-ak.last.fm/serve/34/8386523.jpg</image>
+            <image size="medium">http://userserve-ak.last.fm/serve/64/8386523.jpg</image>
+            <image size="large">http://userserve-ak.last.fm/serve/126/8386523.jpg</image>
+            <url>http://www.last.fm/user/Gomhen</url>
+        </user>
+        <user>
+            <name>NTG</name>
+            <realname>Andy</realname>
+            <image size="small">http://userserve-ak.last.fm/serve/34/647456.jpg</image>
+            <image size="medium">http://userserve-ak.last.fm/serve/64/647456.jpg</image>
+            <image size="large">http://userserve-ak.last.fm/serve/126/647456.jpg</image>
+            <url>http://www.last.fm/user/NTG</url>
+        </user>   
+    </attendees>
+</lfm>

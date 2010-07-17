@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lfm status="ok">
+    <toptracks country="Germany">
+        <track rank="1">
+            <name>Use Somebody</name>
+            <playcount>2819</playcount>
+            <mbid>1234567abcde</mbid>
+            <url>http://www.last.fm/music/Kings+of+Leon/_/Use+Somebody</url>
+            <streamable fulltrack="1">1</streamable>
+            <artist>
+                <name>Kings of Leon</name>
+                <mbid>6ffb8ea9-2370-44d8-b678-e9237bbd347b</mbid>
+                <url>http://www.last.fm/music/Kings+of+Leon</url>
+            </artist>
+        </track>
+        <track rank="2">
+            <name>Schwarz zu Blau</name>
+            <playcount>2663</playcount>
+            <mbid></mbid>
+            <url>http://www.last.fm/music/Peter+Fox/_/Schwarz+zu+Blau</url>
+            <streamable fulltrack="0">1</streamable>
+            <artist>
+                <name>Peter Fox</name>
+                <mbid></mbid>
+                <url>http://www.last.fm/music/Peter+Fox</url>
+            </artist>
+        </track>
+        <track rank="3">
+            <name>Sex on Fire</name>
+            <playcount>2628</playcount>
+            <mbid></mbid>
+            <url>http://www.last.fm/music/Kings+of+Leon/_/Sex+on+Fire</url>
+            <streamable fulltrack="1">1</streamable>
+            <artist>
+                <name>Kings of Leon</name>
+                <mbid>6ffb8ea9-2370-44d8-b678-e9237bbd347b</mbid>
+                <url>http://www.last.fm/music/Kings+of+Leon</url>
+            </artist>
+        </track>
+        <track rank="4">
+            <name>Alles Neu</name>
+            <playcount>2516</playcount>
+            <mbid></mbid>
+            <url>http://www.last.fm/music/Peter+Fox/_/Alles+Neu</url>
+            <streamable fulltrack="0">1</streamable>
+            <artist>
+                <name>Peter Fox</name>
+                <mbid></mbid>
+                <url>http://www.last.fm/music/Peter+Fox</url>
+            </artist>
+        </track>
+        <track rank="5">
+            <name>Poker Face</name>
+            <playcount>2490</playcount>
+            <mbid></mbid>
+            <url>http://www.last.fm/music/Lady+GaGa/_/Poker+Face</url>
+            <streamable fulltrack="1">1</streamable>
+            <artist>
+                <name>Lady GaGa</name>
+                <mbid></mbid>
+                <url>http://www.last.fm/music/Lady+GaGa</url>
+            </artist>
+        </track>
+        <track rank="6">
+            <name>Ayo Technology</name>
+            <playcount>2333</playcount>
+            <mbid></mbid>
+            <url>http://www.last.fm/music/Milow/_/Ayo+Technology</url>
+            <streamable fulltrack="1">1</streamable>
+            <artist>
+                <name>Milow</name>
+                <mbid>cf6e878f-4ad1-4b32-a105-f832c69a4f51</mbid>
+                <url>http://www.last.fm/music/Milow</url>
+            </artist>
+        </track>
+    </toptracks>
+</lfm>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lfm status="ok">
+<toptracks artist="Metallica">
+
+<track rank="1">
+    <name>Nothing Else Matters</name>
+    <playcount>537704</playcount>
+    <mbid></mbid>
+    <url>http://www.last.fm/music/Metallica/_/Nothing+Else+Matters</url>
+    <streamable fulltrack="0">1</streamable>
+        <artist>
+        <name>Metallica</name>
+        <mbid>65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab</mbid>
+        <url>http://www.last.fm/music/Metallica</url>
+    </artist>
+            <image size="small">http://userserve-ak.last.fm/serve/34s/8622943.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/8622943.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/8622943.jpg</image>
+    </track>
+<track rank="2">
+    <name>Enter Sandman</name>
+    <playcount>450999</playcount>
+    <mbid></mbid>
+    <url>http://www.last.fm/music/Metallica/_/Enter+Sandman</url>
+    <streamable fulltrack="0">1</streamable>
+        <artist>
+        <name>Metallica</name>
+        <mbid>65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab</mbid>
+        <url>http://www.last.fm/music/Metallica</url>
+    </artist>
+            <image size="small">http://userserve-ak.last.fm/serve/34s/8622943.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/8622943.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/8622943.jpg</image>
+    </track>
+<track rank="3">
+    <name>The Day That Never Comes</name>
+    <playcount>637879</playcount>
+    <mbid></mbid>
+    <url>http://www.last.fm/music/Metallica/_/The+Day+That+Never+Comes</url>
+    <streamable fulltrack="0">1</streamable>
+        <artist>
+        <name>Metallica</name>
+        <mbid>65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab</mbid>
+        <url>http://www.last.fm/music/Metallica</url>
+    </artist>
+        </track>
+<track rank="4">
+    <name>One</name>
+    <playcount>434367</playcount>
+    <mbid></mbid>
+    <url>http://www.last.fm/music/Metallica/_/One</url>
+    <streamable fulltrack="0">1</streamable>
+        <artist>
+        <name>Metallica</name>
+        <mbid>65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab</mbid>
+        <url>http://www.last.fm/music/Metallica</url>
+    </artist>
+            <image size="small">http://userserve-ak.last.fm/serve/34s/8622947.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/8622947.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/8622947.jpg</image>
+    </track>
+</toptracks></lfm>

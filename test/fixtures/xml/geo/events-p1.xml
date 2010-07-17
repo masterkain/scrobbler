@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lfm status="ok">
+    <events location="Manchester, United Kingdom" page="1" totalpages="42" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" total="411">
+        <event>
+            <id>1025661</id>
+            <title>Will and The People</title>
+            <artists>
+                <artist>Will And The People</artist>
+                <artist>Carnations</artist>
+                <artist>Midwich Cuckoos</artist>
+                <artist>NO FLASH</artist>
+                <headliner>Will And The People</headliner>
+            </artists>
+            <venue>
+                <name>Ruby Lounge</name>
+                <location>
+                    <city>Manchester</city>
+                    <country>United Kingdom</country>
+                    <street>28-34 High Street</street>
+                    <postalcode>M4 1QB</postalcode>
+                    <geo:point>
+                        <geo:lat>53.482827</geo:lat>
+                        <geo:long>-2.238715</geo:long>
+                    </geo:point>
+                    <timezone>GMT</timezone>
+                </location>
+                <url>http://www.last.fm/venue/8843135</url>
+            </venue>
+            <startDate>Sun, 10 May 2009</startDate>
+            <startTime>19:30</startTime>
+
+            <description><![CDATA[Sed sed lectus hendrerit urna imperdiet bibendum.]]></description>
+            <image size="small">http://userserve-ak.last.fm/serve/34/24035067.jpg</image>
+            <image size="medium">http://userserve-ak.last.fm/serve/64/24035067.jpg</image>
+            <image size="large">http://userserve-ak.last.fm/serve/126/24035067.jpg</image>
+            <attendance>2</attendance>
+            <reviews>0</reviews>
+
+            <tag>lastfm:event=1025661</tag>
+            <url>http://www.last.fm/event/1025661</url>
+        </event>
+        <event>
+            <id>954053</id>
+            <title>Son Of Dave</title>
+            <artists>
+                <artist>Son Of Dave</artist>
+
+                <headliner>Son Of Dave</headliner>
+            </artists>
+            <venue>
+                <name>Night &amp; Day Café</name>
+                <location>
+                    <city>Manchester</city>
+                    <country>United Kingdom</country>
+                    <street>26 Oldham Street</street>
+                    <postalcode>M1 1JN</postalcode>
+                    <geo:point>
+                        <geo:lat>53.4826</geo:lat>
+                        <geo:long>-2.235278</geo:long>
+                    </geo:point>
+                    <timezone>GMT</timezone>
+                </location>
+                <url>http://www.last.fm/venue/8793102</url>
+            </venue>
+            <startDate>Sun, 10 May 2009</startDate>
+            <startTime>20:00</startTime>
+            <description></description>
+            <image size="small">http://userserve-ak.last.fm/serve/34/5274435.jpg</image>
+            <image size="medium">http://userserve-ak.last.fm/serve/64/5274435.jpg</image>
+            <image size="large">http://userserve-ak.last.fm/serve/126/5274435.jpg</image>
+            <attendance>2</attendance>
+            <reviews>0</reviews>
+
+            <tag>lastfm:event=954053</tag>
+            <url>http://www.last.fm/event/954053</url>
+        </event>
+        <event>
+            <id>1005964</id>
+            <title>Surface Unsigned</title>
+            <artists>
+                <artist>Terminal Hospitality</artist>
+
+                <headliner>Terminal Hospitality</headliner>
+            </artists>
+            <venue>
+                <name>Studio</name>
+                <location>
+                    <city>Manchester</city>
+                    <country>United Kingdom</country>
+
+                    <street>23 St Peter Street</street>
+                    <postalcode>M2 5QR</postalcode>
+                    <geo:point>
+                        <geo:lat>53.50955</geo:lat>
+                        <geo:long>-2.343928</geo:long>
+                    </geo:point>
+                    <timezone>GMT</timezone>
+
+                </location>
+                <url>http://www.last.fm/venue/8882044</url>
+            </venue>
+            <startDate>Sun, 10 May 2009</startDate>
+            <description><![CDATA[<div class="bbcode">Unsigned music festival we need your votes :)</div>]]>
+            </description>
+            <image size="small">http://userserve-ak.last.fm/serve/34/26187713.jpg</image>
+            <image size="medium">http://userserve-ak.last.fm/serve/64/26187713.jpg</image>
+
+            <image size="large">http://userserve-ak.last.fm/serve/126/26187713.jpg</image>
+            <attendance>1</attendance>
+            <reviews>0</reviews>
+            <tag>lastfm:event=1005964</tag>
+            <url>http://www.last.fm/event/1005964</url>
+        </event>   
+        <event>
+            <id>909456</id>
+            <title>Experimental Dental School</title>
+            <artists>
+
+                <artist>Experimental Dental School</artist>
+                <headliner>Experimental Dental School</headliner>
+            </artists>
+            <venue>
+                <name>Retro Bar</name>
+                <location>
+                    <city>Manchester</city>
+
+                    <country>United Kingdom</country>
+                    <street>78 Sackville Street</street>
+                    <postalcode>M1 3NJ</postalcode>
+                    <geo:point>
+                        <geo:lat>53.475588</geo:lat>
+                        <geo:long>-2.235766</geo:long>
+
+                    </geo:point>
+                    <timezone>GMT</timezone>
+                </location>
+                <url>http://www.last.fm/venue/8777971</url>
+            </venue>
+            <startDate>Mon, 11 May 2009</startDate>
+            <description></description>
+
+            <image size="small">http://userserve-ak.last.fm/serve/34/17800259.jpg</image>
+            <image size="medium">http://userserve-ak.last.fm/serve/64/17800259.jpg</image>
+            <image size="large">http://userserve-ak.last.fm/serve/126/17800259.jpg</image>
+            <attendance>6</attendance>
+            <reviews>0</reviews>
+            <tag>lastfm:event=909456</tag>
+            <url>http://www.last.fm/event/909456</url>
+
+        </event>
+    </events>
+</lfm>

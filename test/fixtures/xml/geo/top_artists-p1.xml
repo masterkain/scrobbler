@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lfm status="ok">
+    <topartists country="Spain" >             
+         
+        <artist rank="1">
+            <name>The Killers</name>
+            <playcount>2635</playcount>
+            <mbid>95e1ead9-4d31-4808-a7ac-32c3614c116b</mbid>
+            <url>http://www.last.fm/music/The+Killers</url>
+            <streamable>1</streamable>
+            <image size="small">http://userserve-ak.last.fm/serve/34/95070.jpg</image>
+            <image size="medium">http://userserve-ak.last.fm/serve/64/95070.jpg</image>
+            <image size="large">http://userserve-ak.last.fm/serve/126/95070.jpg</image>
+        </artist>
+             
+         
+        <artist rank="2">
+            <name>Coldplay</name>
+            <playcount>2551</playcount>
+            <mbid>cc197bad-dc9c-440d-a5b5-d52ba2e14234</mbid>
+            <url>http://www.last.fm/music/Coldplay</url>
+            <streamable>1</streamable>
+            <image size="small">http://userserve-ak.last.fm/serve/34/371936.jpg</image>
+            <image size="medium">http://userserve-ak.last.fm/serve/64/371936.jpg</image>
+            <image size="large">http://userserve-ak.last.fm/serve/126/371936.jpg</image>
+        </artist>
+             
+         
+        <artist rank="3">
+            <name>Radiohead</name>
+            <playcount>2268</playcount>
+            <mbid>a74b1b7f-71a5-4011-9441-d0b5e4122711</mbid>
+            <url>http://www.last.fm/music/Radiohead</url>
+            <streamable>1</streamable>
+            <image size="small">http://userserve-ak.last.fm/serve/34/102639.jpg</image>
+            <image size="medium">http://userserve-ak.last.fm/serve/64/102639.jpg</image>
+            <image size="large">http://userserve-ak.last.fm/serve/126/102639.jpg</image>
+        </artist>
+             
+         
+        <artist rank="4">
+            <name>Muse</name>
+            <playcount>2217</playcount>
+            <mbid>9c9f1380-2516-4fc9-a3e6-f9f61941d090</mbid>
+            <url>http://www.last.fm/music/Muse</url>
+            <streamable>1</streamable>
+            <image size="small">http://userserve-ak.last.fm/serve/34/416514.jpg</image>
+            <image size="medium">http://userserve-ak.last.fm/serve/64/416514.jpg</image>
+            <image size="large">http://userserve-ak.last.fm/serve/126/416514.jpg</image>
+        </artist>
+             
+         
+        <artist rank="5">
+            <name>Franz Ferdinand</name>
+            <playcount>1875</playcount>
+            <mbid>aa7a2827-f74b-473c-bd79-03d065835cf7</mbid>
+            <url>http://www.last.fm/music/Franz+Ferdinand</url>
+            <streamable>1</streamable>
+            <image size="small">http://userserve-ak.last.fm/serve/34/3882921.jpg</image>
+            <image size="medium">http://userserve-ak.last.fm/serve/64/3882921.jpg</image>
+            <image size="large">http://userserve-ak.last.fm/serve/126/3882921.jpg</image>
+        </artist>
+             
+         
+        <artist rank="6">
+            <name>U2</name>
+            <playcount>1627</playcount>
+            <mbid>a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432</mbid>
+            <url>http://www.last.fm/music/U2</url>
+            <streamable>1</streamable>
+            <image size="small">http://userserve-ak.last.fm/serve/34/24951019.jpg</image>
+            <image size="medium">http://userserve-ak.last.fm/serve/64/24951019.jpg</image>
+            <image size="large">http://userserve-ak.last.fm/serve/126/24951019.jpg</image>
+        </artist>
+    </topartists>
+</lfm>

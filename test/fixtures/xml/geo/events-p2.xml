@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lfm status="ok">
+    <events location="Manchester, United Kingdom" page="2" totalpages="37" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" total="361">
+        <event>
+            <id>1070753</id>
+            <title>New Bruises</title>
+            <artists>
+                <artist>New Bruises</artist>
+                <artist>Above Them</artist>
+                <artist>The Cost Of Living</artist>
+                <headliner>New Bruises</headliner>
+            </artists>
+            <venue>
+                <name>Retro Bar</name>
+                <location>
+                    <city>Manchester</city>
+                    <country>United Kingdom</country>
+                    <street>78 Sackville Street</street>
+                    <postalcode>M1 3NJ</postalcode>
+                    <geo:point>
+                        <geo:lat>53.475588</geo:lat>
+                        <geo:long>-2.235766</geo:long>
+                    </geo:point>
+                    <timezone>GMT</timezone>
+                </location>
+                <url>http://www.last.fm/venue/8777971</url>
+            </venue>
+            <startDate>Sat, 06 Jun 2009</startDate>
+            <startTime>20:00</startTime>
+            <description></description>
+            <image size="small">http://userserve-ak.last.fm/serve/34/399242.jpg</image>
+            <image size="medium">http://userserve-ak.last.fm/serve/64/399242.jpg</image>
+            <image size="large">http://userserve-ak.last.fm/serve/126/399242.jpg</image>
+            <attendance>2</attendance>
+            <reviews>0</reviews>
+            <tag>lastfm:event=1070753</tag>
+            <url>http://www.last.fm/event/1070753</url>
+            <website></website>
+            <tickets>
+            </tickets>
+        </event>
+        <event>
+            <id>914502</id>
+            <title>2 Many DJ's</title>
+            <artists>
+                <artist>2 Many DJ's</artist>
+                <headliner>2 Many DJ's</headliner>
+            </artists>
+            <venue>
+                <name>Manchester Academy 1</name>
+                <location>
+                    <city>Manchester</city>
+                    <country>United Kingdom</country>
+                    <street>Oxford Road</street>
+                    <postalcode>M13 9PR</postalcode>
+                    <geo:point>
+                        <geo:lat>53.46437</geo:lat>
+                        <geo:long>-2.23222</geo:long>
+                    </geo:point>
+                    <timezone>GMT</timezone>
+                </location>
+                <url>http://www.last.fm/venue/8976847</url>
+            </venue>
+            <startDate>Sat, 06 Jun 2009</startDate>
+            <startTime>21:00</startTime>
+            <description></description>
+            <image size="small">http://userserve-ak.last.fm/serve/34/9766675.png</image>
+            <image size="medium">http://userserve-ak.last.fm/serve/64/9766675.png</image>
+            <image size="large">http://userserve-ak.last.fm/serve/126/9766675.png</image>
+            <attendance>42</attendance>
+            <reviews>0</reviews>
+            <tag>lastfm:event=914502</tag>
+            <url>http://www.last.fm/event/914502</url>
+            <website></website>
+            <tickets>
+            </tickets>
+        </event>
+        <event>
+            <id>1019630</id>
+            <title>2Many DJ's</title>
+            <artists>
+                <artist>2ManyDJs</artist>
+                <headliner>2ManyDJs</headliner>
+            </artists>
+            <venue>
+                <name>Manchester University</name>
+                <location>
+                    <city>Manchester</city>
+                    <country>United Kingdom</country>
+                    <street></street>
+                    <postalcode></postalcode>
+                    <geo:point>
+                        <geo:lat>53.463186</geo:lat>
+                        <geo:long>-2.229944</geo:long>
+                    </geo:point>
+                    <timezone>GMT</timezone>
+                </location>
+                <url>http://www.last.fm/venue/8777840</url>
+            </venue>
+            <startDate>Sat, 06 Jun 2009</startDate>
+            <startTime>21:00</startTime>
+            <description></description>
+            <image size="small">http://userserve-ak.last.fm/serve/34/23779717.jpg</image>
+            <image size="medium">http://userserve-ak.last.fm/serve/64/23779717.jpg</image>
+            <image size="large">http://userserve-ak.last.fm/serve/126/23779717.jpg</image>
+            <attendance>3</attendance>
+            <reviews>0</reviews>
+            <tag>lastfm:event=1019630</tag>
+            <url>http://www.last.fm/event/1019630</url>
+            <website>http://www.manchesteracademy.net/Artist%20Pages/2manydjs.html</website>
+            <tickets>
+            </tickets>
+        </event>
+        <event>
+            <id>1079653</id>
+            <title>Keep It Unreal 10th Birthday</title>
+            <artists>
+                <artist>Mr. Scruff</artist>
+                <headliner>Mr. Scruff</headliner>
+            </artists>
+            <venue>
+                <name>The Music Box</name>
+                <location>
+                    <city>Manchester</city>
+                    <country>United Kingdom</country>
+                    <street>65 Oxford St</street>
+                    <postalcode>M1 6FQ</postalcode>
+                    <geo:point>
+                        <geo:lat>53.475612</geo:lat>
+                        <geo:long>-2.241763</geo:long>
+                    </geo:point>
+                    <timezone>GMT</timezone>
+                </location>
+                <url>http://www.last.fm/venue/8779435</url>
+            </venue>
+            <startDate>Sat, 06 Jun 2009</startDate>
+            <startTime>22:00</startTime>
+            <description></description>
+            <image size="small">http://userserve-ak.last.fm/serve/34/1531.jpg</image>
+            <image size="medium">http://userserve-ak.last.fm/serve/64/1531.jpg</image>
+            <image size="large">http://userserve-ak.last.fm/serve/126/1531.jpg</image>
+            <attendance>3</attendance>
+            <reviews>0</reviews>
+            <tag>lastfm:event=1079653</tag>
+            <url>http://www.last.fm/event/1079653</url>
+            <website></website>
+            <tickets>
+            </tickets>
+        </event>
+        <event>
+            <id>982400</id>
+            <title>Beverley Craven</title>
+            <artists>
+                <artist>Beverley Craven</artist>
+                <headliner>Beverley Craven</headliner>
+            </artists>
+            <venue>
+                <name>The Lowry</name>
+                <location>
+                    <city>Manchester</city>
+                    <country>United Kingdom</country>
+                    <street>Salford Quays</street>
+                    <postalcode>M50 3AZ</postalcode>
+                    <geo:point>
+                        <geo:lat>53.470752</geo:lat>
+                        <geo:long>-2.293061</geo:long>
+                    </geo:point>
+                    <timezone>GMT</timezone>
+                </location>
+                <url>http://www.last.fm/venue/8780280</url>
+            </venue>
+            <startDate>Sun, 07 Jun 2009</startDate>
+            <description></description>
+            <image size="small">http://userserve-ak.last.fm/serve/34/352800.jpg</image>
+            <image size="medium">http://userserve-ak.last.fm/serve/64/352800.jpg</image>
+            <image size="large">http://userserve-ak.last.fm/serve/126/352800.jpg</image>
+            <attendance>1</attendance>
+            <reviews>0</reviews>
+            <tag>lastfm:event=982400</tag>
+            <url>http://www.last.fm/event/982400</url>
+            <website></website>
+            <tickets>
+            </tickets>
+        </event>
+        <event>
+            <id>805364</id>
+            <title>Oasis</title>
+            <artists>
+                <artist>Oasis</artist>
+                <artist>Kasabian</artist>
+                <artist>The Enemy</artist>
+                <artist>Twisted Wheel</artist>
+                <artist>Free Peace</artist>
+                <headliner>Oasis</headliner>
+            </artists>
+            <venue>
+                <name>Heaton Park</name>
+                <location>
+                    <city>Manchester</city>
+                    <country>United Kingdom</country>
+                    <street></street>
+                    <postalcode>M25 2SW</postalcode>
+                    <geo:point>
+                        <geo:lat>53.5</geo:lat>
+                        <geo:long>-2.2166667</geo:long>
+                    </geo:point>
+                    <timezone>GMT</timezone>
+                </location>
+                <url>http://www.last.fm/venue/8783065</url>
+            </venue>
+            <startDate>Sun, 07 Jun 2009</startDate>
+            <description></description>
+            <image size="small">http://userserve-ak.last.fm/serve/34/7394339.jpg</image>
+            <image size="medium">http://userserve-ak.last.fm/serve/64/7394339.jpg</image>
+            <image size="large">http://userserve-ak.last.fm/serve/126/7394339.jpg</image>
+            <attendance>180</attendance>
+            <reviews>0</reviews>
+            <tag>lastfm:event=805364</tag>
+            <url>http://www.last.fm/event/805364</url>
+            <website></website>
+            <tickets>
+            </tickets>
+        </event>
+        <event>
+            <id>1077888</id>
+            <title>Acoustic All Day Bonanza</title>
+            <artists>
+                <artist>Samson &amp; Delilah</artist>
+                <artist>The Empty Set</artist>
+                <artist>eleanor lou</artist>
+                <artist>I Am Blackbird</artist>
+                <artist>Mizukis Ashes</artist>
+                <artist>Satellite Towns</artist>
+                <artist>Cameron O'Hagan</artist>
+                <artist>Laura Higginbottom</artist>
+                <headliner>Samson &amp; Delilah</headliner>
+            </artists>
+            <venue>
+                <name>Night &amp; Day Café</name>
+                <location>
+                    <city>Manchester</city>
+                    <country>United Kingdom</country>
+                    <street>26 Oldham Street</street>
+                    <postalcode>M1 1JN</postalcode>
+                    <geo:point>
+                        <geo:lat>53.4826</geo:lat>
+                        <geo:long>-2.235278</geo:long>
+                    </geo:point>
+                    <timezone>GMT</timezone>
+                </location>
+                <url>http://www.last.fm/venue/8793102</url>
+            </venue>
+            <startDate>Sun, 07 Jun 2009</startDate>
+            <startTime>17:00</startTime>
+            <description><![CDATA[<div class="bbcode">All Day Acoustic Bonanza 2 featuring... I AM BLACKBIRD / ELEANOR LOU &amp; BAND / THE EMPTY SET / SAMSON &amp; DELILAH / MIZUKIS ASHES / SATELLITE TOWNS / CAMERON O'HAGAN and LAURA HIGGINBOTTOM. Entry £5, open 5PM-11PM</div>]]>
+            </description>
+            <image size="small">http://userserve-ak.last.fm/serve/34/28697583.jpg</image>
+            <image size="medium">http://userserve-ak.last.fm/serve/64/28697583.jpg</image>
+            <image size="large">http://userserve-ak.last.fm/serve/126/28697583.jpg</image>
+            <attendance>2</attendance>
+            <reviews>0</reviews>
+            <tag>lastfm:event=1077888</tag>
+            <url>http://www.last.fm/event/1077888</url>
+            <website></website>
+            <tickets>
+            </tickets>
+        </event>
+        <event>
+            <id>1068084</id>
+            <title>All We Have  Rain City EP Release Party!</title>
+            <artists>
+                <artist>All We Have</artist>
+                <artist>Together</artist>
+                <artist>Broken Teeth</artist>
+                <artist>Bays</artist>
+                <headliner>All We Have</headliner>
+            </artists>
+            <venue>
+                <name>The Star &amp; Garter</name>
+                <location>
+                    <city>Manchester</city>
+                    <country>United Kingdom</country>
+                    <street>18-20 Fairfield Street</street>
+                    <postalcode>M1 2QF</postalcode>
+                    <geo:point>
+                        <geo:lat>53.476367</geo:lat>
+                        <geo:long>-2.232757</geo:long>
+                    </geo:point>
+                    <timezone>GMT</timezone>
+                </location>
+                <url>http://www.last.fm/venue/8778719</url>
+            </venue>
+            <startDate>Mon, 08 Jun 2009</startDate>
+            <description></description>
+            <image size="small">http://userserve-ak.last.fm/serve/34/20391309.jpg</image>
+            <image size="medium">http://userserve-ak.last.fm/serve/64/20391309.jpg</image>
+            <image size="large">http://userserve-ak.last.fm/serve/126/20391309.jpg</image>
+            <attendance>8</attendance>
+            <reviews>0</reviews>
+            <tag>lastfm:event=1068084</tag>
+            <url>http://www.last.fm/event/1068084</url>
+            <website></website>
+            <tickets>
+            </tickets>
+        </event>
+        <event>
+            <id>1035496</id>
+            <title>Kasabian</title>
+            <artists>
+                <artist>Kasabian</artist>
+                <headliner>Kasabian</headliner>
+            </artists>
+            <venue>
+                <name>HMV, Market Street</name>
+                <location>
+                    <city>Manchester</city>
+                    <country>United Kingdom</country>
+                    <street>Market Street</street>
+                    <postalcode></postalcode>
+                    <geo:point>
+                        <geo:lat>53.4766046620011</geo:lat>
+                        <geo:long>-2.2412109375</geo:long>
+                    </geo:point>
+                    <timezone>GMT</timezone>
+                </location>
+                <url>http://www.last.fm/venue/8926516</url>
+            </venue>
+            <startDate>Mon, 08 Jun 2009</startDate>
+            <startTime>18:00</startTime>
+            <description></description>
+            <image size="small">http://userserve-ak.last.fm/serve/34/284053.jpg</image>
+            <image size="medium">http://userserve-ak.last.fm/serve/64/284053.jpg</image>
+            <image size="large">http://userserve-ak.last.fm/serve/126/284053.jpg</image>
+            <attendance>11</attendance>
+            <reviews>0</reviews>
+            <tag>lastfm:event=1035496</tag>
+            <url>http://www.last.fm/event/1035496</url>
+            <website></website>
+            <tickets>
+            </tickets>
+        </event>
+        <event>
+            <id>1050502</id>
+            <title>Saving Aimee</title>
+            <artists>
+                <artist>Saving Aimee</artist>
+                <artist>Snakes Hate Fire</artist>
+                <headliner>Saving Aimee</headliner>
+            </artists>
+            <venue>
+                <name>Moho Live</name>
+                <location>
+                    <city>Manchester</city>
+                    <country>United Kingdom</country>
+                    <street>Tib Street</street>
+                    <postalcode>M1 1JG</postalcode>
+                    <geo:point>
+                        <geo:lat>53.482402</geo:lat>
+                        <geo:long>-2.236844</geo:long>
+                    </geo:point>
+                    <timezone>GMT</timezone>
+                </location>
+                <url>http://www.last.fm/venue/8877795</url>
+            </venue>
+            <startDate>Mon, 08 Jun 2009</startDate>
+            <startTime>19:00</startTime>
+            <description></description>
+            <image size="small">http://userserve-ak.last.fm/serve/34/13497459.png</image>
+            <image size="medium">http://userserve-ak.last.fm/serve/64/13497459.png</image>
+            <image size="large">http://userserve-ak.last.fm/serve/126/13497459.png</image>
+            <attendance>4</attendance>
+            <reviews>0</reviews>
+            <tag>lastfm:event=1050502</tag>
+            <url>http://www.last.fm/event/1050502</url>
+            <website></website>
+            <tickets>
+            </tickets>
+        </event>
+    </events>
+</lfm>

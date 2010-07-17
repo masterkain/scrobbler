@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lfm status="ok">
+<topfans artist="Cher" track="Believe">
+
+<user>
+    <name>ccaron0</name>
+    <url>http://www.last.fm/user/ccaron0</url>
+    <image size="small"></image>
+    <image size="medium"></image>
+    <image size="large"></image>
+
+    <weight>335873</weight>
+</user>
+<user>
+    <name>rankcamo</name>
+    <url>http://www.last.fm/user/rankcamo</url>
+    <image size="small"></image>
+    <image size="medium"></image>
+    <image size="large"></image>
+
+    <weight>320000</weight>
+</user>
+<user>
+    <name>craigy92</name>
+    <url>http://www.last.fm/user/craigy92</url>
+    <image size="small"></image>
+    <image size="medium"></image>
+    <image size="large"></image>
+
+    <weight>200000</weight>
+</user>
+</topfans></lfm>
+
+

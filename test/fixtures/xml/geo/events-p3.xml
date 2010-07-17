@@ -1,0 +1,427 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lfm status="ok">
+    <events location="Manchester, United Kingdom" page="3" totalpages="37" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" total="361">
+        <event>
+            <id>1009391</id>
+            <title>Saving Aimee</title>
+            <artists>
+                <artist>Saving Aimee</artist>
+                <headliner>Saving Aimee</headliner>
+            </artists>
+            <venue>
+                <name>The Music Box</name>
+                <location>
+                    <city>Manchester</city>
+                    <country>United Kingdom</country>
+                    <street>65 Oxford St</street>
+                    <postalcode>M1 6FQ</postalcode>
+                    <geo:point>
+                        <geo:lat>53.475612</geo:lat>
+                        <geo:long>-2.241763</geo:long>
+                    </geo:point>
+                    <timezone>GMT</timezone>
+                </location>
+                <url>http://www.last.fm/venue/8779435</url>
+            </venue>
+            <startDate>Mon, 08 Jun 2009</startDate>
+            <description></description>
+            <image size="small">http://userserve-ak.last.fm/serve/34/13497459.png</image>
+            <image size="medium">http://userserve-ak.last.fm/serve/64/13497459.png</image>
+            <image size="large">http://userserve-ak.last.fm/serve/126/13497459.png</image>
+            <attendance>0</attendance>
+            <reviews>0</reviews>
+            <tag>lastfm:event=1009391</tag>
+            <url>http://www.last.fm/event/1009391</url>
+            <website></website>
+            <tickets>
+            </tickets>
+        </event>
+        <event>
+            <id>987382</id>
+            <title>King Creosote</title>
+            <artists>
+                <artist>King Creosote</artist>
+                <artist>Player Piano</artist>
+                <artist>Pictish Trail</artist>
+                <headliner>King Creosote</headliner>
+            </artists>
+            <venue>
+                <name>Ruby Lounge</name>
+                <location>
+                    <city>Manchester</city>
+                    <country>United Kingdom</country>
+                    <street>28-34 High Street</street>
+                    <postalcode>M4 1QB</postalcode>
+                    <geo:point>
+                        <geo:lat>53.482827</geo:lat>
+                        <geo:long>-2.238715</geo:long>
+                    </geo:point>
+                    <timezone>GMT</timezone>
+                </location>
+                <url>http://www.last.fm/venue/8843135</url>
+            </venue>
+            <startDate>Tue, 09 Jun 2009</startDate>
+            <description></description>
+            <image size="small">http://userserve-ak.last.fm/serve/34/2204161.jpg</image>
+            <image size="medium">http://userserve-ak.last.fm/serve/64/2204161.jpg</image>
+            <image size="large">http://userserve-ak.last.fm/serve/126/2204161.jpg</image>
+            <attendance>13</attendance>
+            <reviews>0</reviews>
+            <tag>lastfm:event=987382</tag>
+            <url>http://www.last.fm/event/987382</url>
+            <website></website>
+            <tickets>
+            </tickets>
+        </event>
+        <event>
+            <id>895648</id>
+            <title>Junior Boys</title>
+            <artists>
+                <artist>Junior Boys</artist>
+                <headliner>Junior Boys</headliner>
+            </artists>
+            <venue>
+                <name>Club Academy</name>
+                <location>
+                    <city>Manchester</city>
+                    <country>United Kingdom</country>
+                    <street>Oxford Road</street>
+                    <postalcode>M13 9PR</postalcode>
+                    <geo:point>
+                        <geo:lat>53.46437</geo:lat>
+                        <geo:long>-2.23222</geo:long>
+                    </geo:point>
+                    <timezone>GMT</timezone>
+                </location>
+                <url>http://www.last.fm/venue/8885034</url>
+            </venue>
+            <startDate>Tue, 09 Jun 2009</startDate>
+            <description><![CDATA[<div class="bbcode">Dear Customer,<br />
+<br />
+We have received confirmation that the Junior Boys show due to take place on 13th March at Manchester Club Academy has been postponed until 9th June.<br />
+<br />
+Original tickets remain valid but if you cannot attend the new date you may return tickets to us before 29th May for a face value refund.<br />
+<br />
+If returning tickets please send them to:<br />
+<br />
+Dept. Junior Boys<br />
+Piccadilly Ticketline<br />
+PO Box 4061<br />
+Manchester<br />
+M60 1YT</div>]]>
+            </description>
+            <image size="small">http://userserve-ak.last.fm/serve/34/335649.jpg</image>
+            <image size="medium">http://userserve-ak.last.fm/serve/64/335649.jpg</image>
+            <image size="large">http://userserve-ak.last.fm/serve/126/335649.jpg</image>
+            <attendance>23</attendance>
+            <reviews>0</reviews>
+            <tag>lastfm:event=895648</tag>
+            <url>http://www.last.fm/event/895648</url>
+            <website></website>
+            <tickets>
+            </tickets>
+        </event>
+        <event>
+            <id>1034942</id>
+            <title>Led Bib</title>
+            <artists>
+                <artist>Led Bib</artist>
+                <headliner>Led Bib</headliner>
+            </artists>
+            <venue>
+                <name>Mint Lounge</name>
+                <location>
+                    <city>Manchester</city>
+                    <country>United Kingdom</country>
+                    <street>46-50 Oldham Street</street>
+                    <postalcode>M4 1LE</postalcode>
+                    <geo:point>
+                        <geo:lat>53.477073</geo:lat>
+                        <geo:long>-2.239989</geo:long>
+                    </geo:point>
+                    <timezone>GMT</timezone>
+                </location>
+                <url>http://www.last.fm/venue/8783675</url>
+            </venue>
+            <startDate>Tue, 09 Jun 2009</startDate>
+            <description></description>
+            <image size="small">http://userserve-ak.last.fm/serve/34/395198.jpg</image>
+            <image size="medium">http://userserve-ak.last.fm/serve/64/395198.jpg</image>
+            <image size="large">http://userserve-ak.last.fm/serve/126/395198.jpg</image>
+            <attendance>2</attendance>
+            <reviews>0</reviews>
+            <tag>lastfm:event=1034942</tag>
+            <url>http://www.last.fm/event/1034942</url>
+            <website></website>
+            <tickets>
+            </tickets>
+        </event>
+        <event>
+            <id>1057702</id>
+            <title>Middle Class Rut</title>
+            <artists>
+                <artist>Middle Class Rut</artist>
+                <headliner>Middle Class Rut</headliner>
+            </artists>
+            <venue>
+                <name>Night &amp; Day Café</name>
+                <location>
+                    <city>Manchester</city>
+                    <country>United Kingdom</country>
+                    <street>26 Oldham Street</street>
+                    <postalcode>M1 1JN</postalcode>
+                    <geo:point>
+                        <geo:lat>53.4826</geo:lat>
+                        <geo:long>-2.235278</geo:long>
+                    </geo:point>
+                    <timezone>GMT</timezone>
+                </location>
+                <url>http://www.last.fm/venue/8793102</url>
+            </venue>
+            <startDate>Tue, 09 Jun 2009</startDate>
+            <startTime>19:00</startTime>
+            <description></description>
+            <image size="small">http://userserve-ak.last.fm/serve/34/2427085.jpg</image>
+            <image size="medium">http://userserve-ak.last.fm/serve/64/2427085.jpg</image>
+            <image size="large">http://userserve-ak.last.fm/serve/126/2427085.jpg</image>
+            <attendance>3</attendance>
+            <reviews>0</reviews>
+            <tag>lastfm:event=1057702</tag>
+            <url>http://www.last.fm/event/1057702</url>
+            <website></website>
+            <tickets>
+            </tickets>
+        </event>
+        <event>
+            <id>1067214</id>
+            <title>Serpico</title>
+            <artists>
+                <artist>Serpico</artist>
+                <artist>My Passion</artist>
+                <artist>Blood Culture</artist>
+                <artist>Odins Blood</artist>
+                <headliner>Serpico</headliner>
+            </artists>
+            <venue>
+                <name>Moho Live</name>
+                <location>
+                    <city>Manchester</city>
+                    <country>United Kingdom</country>
+                    <street>Tib Street</street>
+                    <postalcode>M1 1JG</postalcode>
+                    <geo:point>
+                        <geo:lat>53.482402</geo:lat>
+                        <geo:long>-2.236844</geo:long>
+                    </geo:point>
+                    <timezone>GMT</timezone>
+                </location>
+                <url>http://www.last.fm/venue/8877795</url>
+            </venue>
+            <startDate>Tue, 09 Jun 2009</startDate>
+            <startTime>19:00</startTime>
+            <description><![CDATA[<div class="bbcode"><a href="http://ws.audioscrobbler.com/music/Serpico" class="bbcode_artist">Serpico</a> @ Moho Live, Manchester (9th June 2009)<br />
+Supported by <a href="http://ws.audioscrobbler.com/music/My+Passion" class="bbcode_artist">My Passion</a>, <a href="http://ws.audioscrobbler.com/music/Blood+Culture" class="bbcode_artist">Blood Culture</a>, and <a href="http://ws.audioscrobbler.com/music/Odins+Blood" class="bbcode_artist">Odins Blood</a></div>]]>
+            </description>
+            <image size="small">http://userserve-ak.last.fm/serve/34/5151719.jpg</image>
+            <image size="medium">http://userserve-ak.last.fm/serve/64/5151719.jpg</image>
+            <image size="large">http://userserve-ak.last.fm/serve/126/5151719.jpg</image>
+            <attendance>1</attendance>
+            <reviews>0</reviews>
+            <tag>lastfm:event=1067214</tag>
+            <url>http://www.last.fm/event/1067214</url>
+            <website>http://www.moholive.com/listings.php?m=6&amp;gigID=200#9</website>
+            <tickets>
+            </tickets>
+        </event>
+        <event>
+            <id>957506</id>
+            <title>Bill Bailey</title>
+            <artists>
+                <artist>Bill Bailey</artist>
+                <headliner>Bill Bailey</headliner>
+            </artists>
+            <venue>
+                <name>The Lowry</name>
+                <location>
+                    <city>Manchester</city>
+                    <country>United Kingdom</country>
+                    <street>Salford Quays</street>
+                    <postalcode>M50 3AZ</postalcode>
+                    <geo:point>
+                        <geo:lat>53.470752</geo:lat>
+                        <geo:long>-2.293061</geo:long>
+                    </geo:point>
+                    <timezone>GMT</timezone>
+                </location>
+                <url>http://www.last.fm/venue/8780280</url>
+            </venue>
+            <startDate>Tue, 09 Jun 2009</startDate>
+            <startTime>19:30</startTime>
+            <description></description>
+            <image size="small">http://userserve-ak.last.fm/serve/34/204379.jpg</image>
+            <image size="medium">http://userserve-ak.last.fm/serve/64/204379.jpg</image>
+            <image size="large">http://userserve-ak.last.fm/serve/126/204379.jpg</image>
+            <attendance>11</attendance>
+            <reviews>0</reviews>
+            <tag>lastfm:event=957506</tag>
+            <url>http://www.last.fm/event/957506</url>
+            <website>http://www.thelowry.com/WhatsOn/EventDetail.aspx?EventId=3795</website>
+            <tickets>
+            </tickets>
+        </event>
+        <event>
+            <id>1003394</id>
+            <title>King Creosote</title>
+            <artists>
+                <artist>King Creosote</artist>
+                <headliner>King Creosote</headliner>
+            </artists>
+            <venue>
+                <name>Ruby Lounge</name>
+                <location>
+                    <city>Manchester</city>
+                    <country>United Kingdom</country>
+                    <street>28-34 High Street</street>
+                    <postalcode>M4 1QB</postalcode>
+                    <geo:point>
+                        <geo:lat>53.482827</geo:lat>
+                        <geo:long>-2.238715</geo:long>
+                    </geo:point>
+                    <timezone>GMT</timezone>
+                </location>
+                <url>http://www.last.fm/venue/8843135</url>
+            </venue>
+            <startDate>Tue, 09 Jun 2009</startDate>
+            <description><![CDATA[<div class="bbcode">The Sunday Times - **** Album of the week<br />
+<br />
+The Observer - **** “Marvellous…his finest moment yet”<br />
+<br />
+The Guardian - **** “Utterly Fabulous”<br />
+<br />
+The Independent - **** “A gently gorgeous album”<br />
+<br />
+The Metro - **** “Breathtakingly lovely”<br />
+<br />
+The Daily Record - **** “Remarkable…a must have album”<br />
+<br />
+The Mail on Sunday - **** “Marvellously fresh and entertaining”<br />
+<br />
+The Scotsman - **** “I could listen to KC all day”<br />
+<br />
+The Sunday Mail - **** “Classic winsome loveliness”<br />
+<br />
+The Word - “Treat yourself!”<br />
+<br />
+King Creosote is the name used for current solo releases of the musician Kenny Anderson. A popular misconception is that this is the name of the band featuring him and not just his stage name. However, at live shows, he will usually introduce his band members by their similar pseudonyms - some fellow Fence Collective artistes such as “The Pictish Trail” (aka Johnny Lynch), On The Fly and Uncle Beesly, to name but the usual line-up. Anderson was formerly lead singer of Skuobhie Dubh Orchestra and Khartoum Heroes.<br />
+<br />
+Anderson is a prolific songwriter, many of his songs having been released across just under 40 albums in ten years (at last count). Most of these are CD-R releases on his own Fence Records label. Earlier versions of those songs that find their way on to “official” releases can be found on these releases. In the discography below, “PF” catalogue numbers refer to Picket Fence mini-albums - sets A to E contain releases by various Fence Collective artists, each set released as one-offs and sold by subscription only. Picket Fence E has no King Creosote release. From a musical family, his brothers are also musicians Ian (Een) aka Pip Dylan and Gordon aka Lone Pigeon who is lead singer and main songwriter with The Aliens. Collaborations between the three abound at their live shows and on the CDR releases.<br />
+<br />
+From the Fence Collective website:<br />
+<br />
+In 1994, the singer / songwriter with Skuobhie Dubh Orchestra and Khartoum Heroes realised that an increasing number of his songs were either not folky / bluegrassy enough for the Dubhs, or had too few chords for the Heroes. King Creosote crowned himself to bring to the world - “songs with relatively few chords in a non-bluegrass style”, except in those cases where “this song is an over-elaborate bluegrass ditty”. In 2005, KC live might, fully clothed, only sport the accordion, with some rare guitar / banjo / box-playing from Pip Dylan of Spain, naturist and ogre of beauty.<br />
+<br />
+King Creosote maintains that the song is more important than the style, and that the performance outweighs recording quality. If a part can’t be recorded in one take, scrap it for something simpler. No sample should be longer than four seconds, and although samples should be in tune or in time, not necessarily both. King Creosote detests noodling virtuoso, and thus has a go on whatever instrument is at hand. Anyway, duff tunes strengthen the songs on either side. A KC album starts at the beginning, and don’t finish ‘til the end - by design. Except where they start in the middle and grow out of control.<br />
+<br />
+In 2006, KC was one of the first artists to contribute a t-shirt to the Yellow Bird Project, to raise money for Greenpeace. To this end, KC Rules OK was re-released in 2006 with different versions of some songs, and a version of the album called “Chorlton and the Wh’earlies” recorded with The Earlies was available with some purchases. Bombshell was released with an additional disc, a DVD film of King Creosote and friends on tour.<br />
+<br />
+In a June 2008 interview on BBC Radio 6music, mistakenly introduced as “King Creole”, he told Tom Robinson that he’d like to play a festival every weekend this Summer and then return home for the weekdays.<br />
+<br />
+In the 2007 film Hallam Foe two of his songs, The Someone Else and King Bubbles in Sand, were featured.<br />
+<br />
+New album “Flick the Vs” out April 20th 2009 on the Domino label, and the single “Coast on by” available as a digital download from April 27th.<br />
+<br />
+<a href="http://www.kingcreosote.com" rel="nofollow">http://www.kingcreosote.com</a><br />
+<br />
+<a href="http://www.myspace.com/kingcreosote" rel="nofollow">http://www.myspace.com/kingcreosote</a></div>]]>
+            </description>
+            <image size="small">http://userserve-ak.last.fm/serve/34/2204161.jpg</image>
+            <image size="medium">http://userserve-ak.last.fm/serve/64/2204161.jpg</image>
+            <image size="large">http://userserve-ak.last.fm/serve/126/2204161.jpg</image>
+            <attendance>2</attendance>
+            <reviews>0</reviews>
+            <tag>lastfm:event=1003394</tag>
+            <url>http://www.last.fm/event/1003394</url>
+            <website>http://www.therubylounge.org</website>
+            <tickets>
+            </tickets>
+        </event>
+        <event>
+            <id>1072843</id>
+            <title>Fallowfest</title>
+            <artists>
+                <artist>Goldie</artist>
+                <artist>Utah Saints</artist>
+                <artist>Bodyrox</artist>
+                <artist>Mat Zo</artist>
+                <artist>Luciana</artist>
+                <artist>Jaymo &amp; Andy George</artist>
+                <artist>Oli Hackett</artist>
+                <artist>Saxoffender</artist>
+                <artist>Uberchic</artist>
+                <headliner>Goldie</headliner>
+            </artists>
+            <venue>
+                <name>Tiger Tiger</name>
+                <location>
+                    <city>Manchester</city>
+                    <country>United Kingdom</country>
+                    <street></street>
+                    <postalcode></postalcode>
+                    <geo:point>
+                        <geo:lat>53.4766046620011</geo:lat>
+                        <geo:long>-2.2412109375</geo:long>
+                    </geo:point>
+                    <timezone>GMT</timezone>
+                </location>
+                <url>http://www.last.fm/venue/9037080</url>
+            </venue>
+            <startDate>Wed, 10 Jun 2009</startDate>
+            <description></description>
+            <image size="small">http://userserve-ak.last.fm/serve/34/381467.jpg</image>
+            <image size="medium">http://userserve-ak.last.fm/serve/64/381467.jpg</image>
+            <image size="large">http://userserve-ak.last.fm/serve/126/381467.jpg</image>
+            <attendance>9</attendance>
+            <reviews>0</reviews>
+            <tag>lastfm:event=1072843</tag>
+            <url>http://www.last.fm/event/1072843</url>
+            <website>http://www.facebook.com/group.php?gid=59912039470&amp;ref=ts</website>
+            <tickets>
+            </tickets>
+        </event>
+        <event>
+            <id>1024233</id>
+            <title>Teeth Mountain</title>
+            <artists>
+                <artist>Teeth Mountain</artist>
+                <headliner>Teeth Mountain</headliner>
+            </artists>
+            <venue>
+                <name>The Star &amp; Garter</name>
+                <location>
+                    <city>Manchester</city>
+                    <country>United Kingdom</country>
+                    <street>18-20 Fairfield Street</street>
+                    <postalcode>M1 2QF</postalcode>
+                    <geo:point>
+                        <geo:lat>53.476367</geo:lat>
+                        <geo:long>-2.232757</geo:long>
+                    </geo:point>
+                    <timezone>GMT</timezone>
+                </location>
+                <url>http://www.last.fm/venue/8778719</url>
+            </venue>
+            <startDate>Wed, 10 Jun 2009</startDate>
+            <description></description>
+            <image size="small">http://userserve-ak.last.fm/serve/34/28323291.jpg</image>
+            <image size="medium">http://userserve-ak.last.fm/serve/64/28323291.jpg</image>
+            <image size="large">http://userserve-ak.last.fm/serve/126/28323291.jpg</image>
+            <attendance>5</attendance>
+            <reviews>0</reviews>
+            <tag>lastfm:event=1024233</tag>
+            <url>http://www.last.fm/event/1024233</url>
+            <website></website>
+            <tickets>
+            </tickets>
+        </event>
+    </events>
+</lfm>

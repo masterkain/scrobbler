@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lfm status="ok">
+<topalbums artist="Metallica" >
+
+<album  rank="1">
+    <name>Master of Puppets</name>
+    <playcount>1165854</playcount>
+    <mbid>fed37cfc-2a6d-4569-9ac0-501a7c7598eb</mbid>
+    <url>http://www.last.fm/music/Metallica/Master+of+Puppets</url>
+            <artist>
+        <name>Metallica</name>
+        <mbid>65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab</mbid>
+        <url>http://www.last.fm/music/Metallica</url>
+    </artist>
+    <image size="small">http://userserve-ak.last.fm/serve/34s/8622967.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/8622967.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/8622967.jpg</image>
+</album>
+<album  rank="2">
+    <name>Metallica</name>
+    <playcount>1165874</playcount>
+    <mbid>3750d9e2-59f5-471d-8916-463433069bd1</mbid>
+    <url>http://www.last.fm/music/Metallica/Metallica</url>
+            <artist>
+        <name>Metallica</name>
+        <mbid>65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab</mbid>
+        <url>http://www.last.fm/music/Metallica</url>
+    </artist>
+    <image size="small">http://userserve-ak.last.fm/serve/34s/8622943.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/8622943.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/8622943.jpg</image>
+</album>
+<album  rank="3">
+    <name>Ride the Lightning</name>
+    <playcount>998390</playcount>
+    <mbid>456efd39-f0dc-4b4d-87c7-82bbc562d8f3</mbid>
+    <url>http://www.last.fm/music/Metallica/Ride+the+Lightning</url>
+            <artist>
+        <name>Metallica</name>
+        <mbid>65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab</mbid>
+        <url>http://www.last.fm/music/Metallica</url>
+    </artist>
+    <image size="small">http://userserve-ak.last.fm/serve/34s/8622973.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/8622973.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/8622973.jpg</image>
+</album>
+<album  rank="4">
+    <name>Reload</name>
+    <playcount>858405</playcount>
+    <mbid>b05cf8e3-67ad-4d40-9dc1-3a697e3a1bf8</mbid>
+    <url>http://www.last.fm/music/Metallica/Reload</url>
+            <artist>
+        <name>Metallica</name>
+        <mbid>65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab</mbid>
+        <url>http://www.last.fm/music/Metallica</url>
+    </artist>
+    <image size="small">http://userserve-ak.last.fm/serve/34s/8600317.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/8600317.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/8600317.jpg</image>
+</album>
+</topalbums></lfm>

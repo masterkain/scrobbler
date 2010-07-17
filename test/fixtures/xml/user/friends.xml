@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lfm status="ok">
+<friends for="RJ" total="84" page="1" perPage="50" totalPages="2">
+<user>
+    <name>lobsterclaw</name>
+    <realname>Laura Weiss</realname>
+    <image size="small">http://userserve-ak.last.fm/serve/34/1733471.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64/1733471.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/1733471.jpg</image>
+
+    <url>http://www.last.fm/user/lobsterclaw</url>
+    </user><user>
+    <name>jajo</name>
+    <realname></realname>
+    <image size="small"></image>
+    <image size="medium"></image>
+    <image size="large"></image>
+    <url>http://www.last.fm/user/jajo</url>
+
+    </user><user>
+    <name>mremond</name>
+    <realname>Mickaël</realname>
+    <image size="small">http://userserve-ak.last.fm/serve/34/5129358.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64/5129358.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/5129358.jpg</image>
+
+    <url>http://www.last.fm/user/mremond</url>
+    </user>
+</friends></lfm>
+

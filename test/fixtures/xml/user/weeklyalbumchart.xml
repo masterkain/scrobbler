@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lfm status="ok">
+<weeklyalbumchart user="RJ" from="1240747200" to="1241352000">
+<album rank="1">
+    <artist mbid="b7ffd2af-418f-4be2-bdd1-22f8b48613da">Nine Inch Nails</artist>
+    <name>With Teeth</name>
+    <mbid>df025315-4897-4759-ba77-d2cd09b5b4b6</mbid>
+    <playcount>13</playcount>
+    <url>http://www.last.fm/music/Nine+Inch+Nails/With+Teeth</url>
+</album>
+<album rank="2">
+    <artist mbid="bc641be9-ca36-4c61-9394-5230433f6646">Liquid Tension Experiment</artist>
+    <name>Liquid Tension Experiment</name>
+    <mbid>c3c0e462-1606-40dc-9667-1b26b9fb44c5</mbid>
+    <playcount>13</playcount>
+    <url>http://www.last.fm/music/Liquid+Tension+Experiment/Liquid+Tension+Experiment</url>
+</album>
+<album rank="3">
+    <artist mbid="ad0ecd8b-805e-406e-82cb-5b00c3a3a29e">Kid Rock</artist>
+    <name>The History of Rock</name>
+    <mbid>b32c1b95-8a13-4aa9-a5c5-858f408fb586</mbid>
+    <playcount>13</playcount>
+    <url>http://www.last.fm/music/Kid+Rock/The+History+of+Rock</url>
+</album>
+<album rank="4">
+    <artist mbid="b2d122f9-eadb-4930-a196-8f221eeb0c66">Rammstein</artist>
+    <name>title</name>
+    <mbid/>
+    <playcount>12</playcount>
+    <url>http://www.last.fm/music/Rammstein/title</url>
+</album>
+<album rank="5">
+    <artist mbid="bc641be9-ca36-4c61-9394-5230433f6646">Liquid Tension Experiment</artist>
+    <name>Liquid Tension Experiment II</name>
+    <mbid>b5ac9a7e-d977-4b32-a1f3-64c38a39ee1d</mbid>
+    <playcount>11</playcount>
+    <url>http://www.last.fm/music/Liquid+Tension+Experiment/Liquid+Tension+Experiment+II</url>
+</album>
+<album rank="6">
+    <artist mbid="b7ffd2af-418f-4be2-bdd1-22f8b48613da">Nine Inch Nails</artist>
+    <name>Further Down the Spiral</name>
+    <mbid>4f722767-bed6-4021-bb22-b951c8cf6ec4</mbid>
+    <playcount>9</playcount>
+    <url>http://www.last.fm/music/Nine+Inch+Nails/Further+Down+the+Spiral</url>
+</album>
+<album rank="7">
+    <artist mbid="f27ec8db-af05-4f36-916e-3d57f91ecf5e">Michael Jackson</artist>
+    <name>Bad</name>
+    <mbid>aa06acce-1cd8-4082-9550-630e2b1c5300</mbid>
+    <playcount>8</playcount>
+    <url>http://www.last.fm/music/Michael+Jackson/Bad</url>
+</album>
+<album rank="8">
+    <artist mbid="b7ffd2af-418f-4be2-bdd1-22f8b48613da">Nine Inch Nails</artist>
+    <name>Natural Born Killers</name>
+    <mbid/>
+    <playcount>4</playcount>
+    <url>http://www.last.fm/music/Nine+Inch+Nails/Natural+Born+Killers</url>
+</album>
+<album rank="9">
+    <artist mbid="9bf79f68-c064-44a1-8c2c-5764f1d7c016">Richard Cheese</artist>
+    <name>Lounge Against the Machine</name>
+    <mbid>4fecbf14-179d-41fb-9a39-7eb44a4c4634</mbid>
+    <playcount>2</playcount>
+    <url>http://www.last.fm/music/Richard+Cheese/Lounge+Against+the+Machine</url>
+</album>
+<album rank="10">
+    <artist mbid="bcb95908-5c6e-453a-97fc-d69003d250ff">Bowling for Soup</artist>
+    <name>Goes to the Movies</name>
+    <mbid>e0771c9d-216b-459e-9e08-0d598f8f9b34</mbid>
+    <playcount>1</playcount>
+    <url>http://www.last.fm/music/Bowling+for+Soup/Goes+to+the+Movies</url>
+</album>
+<album rank="11">
+    <artist mbid="864d7069-57dc-45f6-b408-875b35106dd3">Colin Hay</artist>
+    <name>Going Somewhere</name>
+    <mbid>0639583e-4e42-4305-bca3-1e96de90f151</mbid>
+    <playcount>1</playcount>
+    <url>http://www.last.fm/music/Colin+Hay/Going+Somewhere</url>
+</album>
+<album rank="12">
+    <artist mbid="86ce7fc0-6bee-49b1-9cbf-10941485a1dc">Gatsby's American Dream</artist>
+    <name>Volcano</name>
+    <mbid>7e9f3e0a-4a77-471d-bef0-270999809a35</mbid>
+    <playcount>1</playcount>
+    <url>http://www.last.fm/music/Gatsby%27s+American+Dream/Volcano</url>
+</album>
+<album rank="13">
+    <artist mbid="89ad4ac3-39f7-470e-963a-56509c546377">Various Artists</artist>
+    <name>Punk Goes Metal</name>
+    <mbid>bffe7578-b0b6-4a60-bfde-fcf8731e1dee</mbid>
+    <playcount>1</playcount>
+    <url>http://www.last.fm/music/Various+Artists/Punk+Goes+Metal</url>
+</album>
+<album rank="14">
+    <artist mbid="2ddd167f-5b8a-4372-b350-6ad50493bac0">The Fray</artist>
+    <name>How to Save a Life</name>
+    <mbid>f20f714c-8f64-4736-bc68-67e6f6eb69b9</mbid>
+    <playcount>1</playcount>
+    <url>http://www.last.fm/music/The+Fray/How+to+Save+a+Life</url>
+</album>
+<album rank="15">
+    <artist mbid="ec7db413-15d5-4d38-b652-52ecc3e0dffd">Seven Wiser</artist>
+    <name>Seven Wiser</name>
+    <mbid>0980752a-e2b1-473d-bea0-9da3d27d3202</mbid>
+    <playcount>1</playcount>
+    <url>http://www.last.fm/music/Seven+Wiser/Seven+Wiser</url>
+</album>
+<album rank="16">
+    <artist mbid="d8df7087-06d5-4545-9024-831bb8558ad1">Jonathan Coulton</artist>
+    <name>Thing a Week Two</name>
+    <mbid/>
+    <playcount>1</playcount>
+    <url>http://www.last.fm/music/Jonathan+Coulton/Thing+a+Week+Two</url>
+</album>
+<album rank="17">
+    <artist mbid="9b78890f-9f89-48a5-924b-efb99d802496">Ozark Henry</artist>
+    <name>Birthmarks</name>
+    <mbid>8b309ceb-90be-4c96-84aa-6db3d1a8aad6</mbid>
+    <playcount>1</playcount>
+    <url>http://www.last.fm/music/Ozark+Henry/Birthmarks</url>
+</album>
+<album rank="18">
+    <artist mbid="55ef024a-6cc0-49ed-8ce2-2e12193c0f46">Survivor</artist>
+    <name>Greatest Hits</name>
+    <mbid>f313cfcd-d4f1-4b21-ae02-a7f16edd1c6f</mbid>
+    <playcount>1</playcount>
+    <url>http://www.last.fm/music/Survivor/Greatest+Hits</url>
+</album>
+<album rank="19">
+    <artist mbid="45a663b5-b1cb-4a91-bff6-2bef7bbfdd76">Britney Spears</artist>
+    <name>Britney</name>
+    <mbid>900437b9-b455-4ac8-be71-7bcc19fc6818</mbid>
+    <playcount>1</playcount>
+    <url>http://www.last.fm/music/Britney+Spears/Britney</url>
+</album>
+<album rank="20">
+    <artist mbid="">The Constantines</artist>
+    <name>Kensington Heights</name>
+    <mbid/>
+    <playcount>1</playcount>
+    <url>http://www.last.fm/music/The+Constantines/Kensington+Heights</url>
+</album>
+<album rank="21">
+    <artist mbid="ea5883b7-68ce-48b3-b115-61746ea53b8c">My Morning Jacket</artist>
+    <name>Z</name>
+    <mbid>d7695765-5d64-485d-a170-07cb7881dc8f</mbid>
+    <playcount>1</playcount>
+    <url>http://www.last.fm/music/My+Morning+Jacket/Z</url>
+</album>
+<album rank="22">
+    <artist mbid="600f0c0d-ddf0-447e-b282-38aaa97f76dc">Living Things</artist>
+    <name>Ahead of the Lions</name>
+    <mbid>e453efe7-f160-4322-a6da-b6ade8ead331</mbid>
+    <playcount>1</playcount>
+    <url>http://www.last.fm/music/Living+Things/Ahead+of+the+Lions</url>
+</album>
+<album rank="23">
+    <artist mbid="1c3b2fce-5cef-4be9-972f-a6603f0316f0">Within Reason</artist>
+    <name>Cycle A Smile</name>
+    <mbid/>
+    <playcount>1</playcount>
+    <url>http://www.last.fm/music/Within+Reason/Cycle+A+Smile</url>
+</album>
+<album rank="24">
+    <artist mbid="29762c82-bb92-4acd-b1fb-09cc4da250d2">Joe Satriani</artist>
+    <name>Surfing With the Alien</name>
+    <mbid>67e11a4e-bf5b-4f7c-8ba4-9ffb1dda5324</mbid>
+    <playcount>1</playcount>
+    <url>http://www.last.fm/music/Joe+Satriani/Surfing+With+the+Alien</url>
+</album>
+<album rank="25">
+    <artist mbid="ff9deaae-da4f-42b7-a19e-36fedd3fc706">Ben Kweller</artist>
+    <name>On My Way</name>
+    <mbid>bb277311-1c45-457c-869a-4fdea8719769</mbid>
+    <playcount>1</playcount>
+    <url>http://www.last.fm/music/Ben+Kweller/On+My+Way</url>
+</album>
+<album rank="26">
+    <artist mbid="ff865aa0-4603-4f79-ae8b-8735332e2cfa">Switchfoot</artist>
+    <name>The Beautiful Letdown</name>
+    <mbid>4b9e41f5-0c1d-4211-9d0f-18591dc71eeb</mbid>
+    <playcount>1</playcount>
+    <url>http://www.last.fm/music/Switchfoot/The+Beautiful+Letdown</url>
+</album>
+<album rank="27">
+    <artist mbid="">Yeasayer</artist>
+    <name>All Hour Cymbals</name>
+    <mbid/>
+    <playcount>1</playcount>
+    <url>http://www.last.fm/music/Yeasayer/All+Hour+Cymbals</url>
+</album>
+<album rank="28">
+    <artist mbid="9f870653-72b0-4c6d-8c59-439a95963e09">Cheap Trick</artist>
+    <name>Greatest Hits</name>
+    <mbid>f62951a9-a4fd-431b-ac4e-87d563a0be35</mbid>
+    <playcount>1</playcount>
+    <url>http://www.last.fm/music/Cheap+Trick/Greatest+Hits</url>
+</album>
+<album rank="29">
+    <artist mbid="4ed35152-5207-4101-8904-6cb5d159b545">CKY</artist>
+    <name>Volume 1</name>
+    <mbid>2bc45b43-4195-4b5b-8f3a-3809afce956d</mbid>
+    <playcount>1</playcount>
+    <url>http://www.last.fm/music/CKY/Volume+1</url>
+</album>
+<album rank="30">
+    <artist mbid="e9a9e71f-1f06-4b7f-bc19-f595d1208a2c">I Hate Kate</artist>
+    <name>Act One</name>
+    <mbid/>
+    <playcount>1</playcount>
+    <url>http://www.last.fm/music/I+Hate+Kate/Act+One</url>
+</album>
+<album rank="31">
+    <artist mbid="9d07f2ed-7bcf-4c60-86cc-0c29654120a0">Rishloo</artist>
+    <name>Eidolon</name>
+    <mbid/>
+    <playcount>1</playcount>
+    <url>http://www.last.fm/music/Rishloo/Eidolon</url>
+</album>
+<album rank="32">
+    <artist mbid="bf600e2b-dc2d-4839-a1be-6ebef4087cd0">311</artist>
+    <name>311</name>
+    <mbid>04325c99-2ec1-49a9-a3fb-cd05707a8167</mbid>
+    <playcount>1</playcount>
+    <url>http://www.last.fm/music/311/311</url>
+</album>
+<album rank="33">
+    <artist mbid="">Led Zepagain</artist>
+    <name>Led Zepagain: A Tribute to Led Zeppelin</name>
+    <mbid/>
+    <playcount>1</playcount>
+    <url>http://www.last.fm/music/Led+Zepagain/Led+Zepagain%3A+A+Tribute+to+Led+Zeppelin</url>
+</album>
+<album rank="34">
+    <artist mbid="8d79e950-1333-4a32-9fc1-af53d421abc4">A Static Lullaby</artist>
+    <name>A Static Lullaby</name>
+    <mbid/>
+    <playcount>1</playcount>
+    <url>http://www.last.fm/music/A+Static+Lullaby/A+Static+Lullaby</url>
+</album>
+<album rank="35">
+    <artist mbid="fabb37f8-eb2a-4cc1-a72a-b56935bbb72d">Three Days Grace</artist>
+    <name>Three Days Grace</name>
+    <mbid>1b2373c5-a488-45ff-bef3-6ebfb105a195</mbid>
+    <playcount>1</playcount>
+    <url>http://www.last.fm/music/Three+Days+Grace/Three+Days+Grace</url>
+</album>
+<album rank="36">
+    <artist mbid="89ad4ac3-39f7-470e-963a-56509c546377">Various Artists</artist>
+    <name>Punk Goes 90S</name>
+    <mbid/>
+    <playcount>1</playcount>
+    <url>http://www.last.fm/music/Various+Artists/Punk+Goes+90S</url>
+</album>
+</weeklyalbumchart></lfm>

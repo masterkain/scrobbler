@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lfm status="ok">
+<topalbums user="RJ" type="overall">
+
+             
+         
+    <album rank="1">
+        <name>Slave To The Grid</name>
+        <playcount>251</playcount>
+        <mbid></mbid>
+        <url>http://www.last.fm/music/Skid+Row/Slave+To+The+Grid</url>
+
+                    <artist>
+            <name>Skid Row</name>
+            <mbid>6da0515e-a27d-449d-84cc-00713c38a140</mbid>
+            <url>http://www.last.fm/music/Skid+Row</url>
+        </artist>
+        <image size="small">http://userserve-ak.last.fm/serve/34s/12621887.jpg</image>
+        <image size="medium">http://userserve-ak.last.fm/serve/64s/12621887.jpg</image>
+
+        <image size="large">http://userserve-ak.last.fm/serve/126/12621887.jpg</image>
+    </album>
+             
+         
+    <album rank="2">
+        <name>Images and Words</name>
+        <playcount>213</playcount>
+        <mbid>f20971f2-c8ad-4d26-91ab-730f6dedafb2</mbid>
+        <url>http://www.last.fm/music/Dream+Theater/Images+and+Words</url>
+
+                    <artist>
+            <name>Dream Theater</name>
+            <mbid>28503ab7-8bf2-4666-a7bd-2644bfc7cb1d</mbid>
+            <url>http://www.last.fm/music/Dream+Theater</url>
+        </artist>
+        <image size="small">http://userserve-ak.last.fm/serve/34s/12620339.jpg</image>
+        <image size="medium">http://userserve-ak.last.fm/serve/64s/12620339.jpg</image>
+
+        <image size="large">http://userserve-ak.last.fm/serve/126/12620339.jpg</image>
+    </album>
+             
+         
+    <album rank="3">
+        <name>Once in a Livetime</name>
+        <playcount>202</playcount>
+        <mbid></mbid>
+        <url>http://www.last.fm/music/Dream+Theater/Once+in+a+Livetime</url>
+
+                    <artist>
+            <name>Dream Theater</name>
+            <mbid>28503ab7-8bf2-4666-a7bd-2644bfc7cb1d</mbid>
+            <url>http://www.last.fm/music/Dream+Theater</url>
+        </artist>
+        <image size="small">http://images.amazon.com/images/P/B00000DD27.01._SCMZZZZZZZ_.jpg</image>
+        <image size="medium">http://images.amazon.com/images/P/B00000DD27.01._SCMZZZZZZZ_.jpg</image>
+
+        <image size="large">http://images.amazon.com/images/P/B00000DD27.01._SCMZZZZZZZ_.jpg</image>
+    </album>
+             
+</topalbums></lfm>
+

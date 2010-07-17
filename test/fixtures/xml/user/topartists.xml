@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lfm status="ok">
+<topartists user="RJ" type="overall">
+
+             
+         
+    <artist rank="1">
+        <name>Dream Theater</name>
+        <playcount>1643</playcount>
+        <mbid>28503ab7-8bf2-4666-a7bd-2644bfc7cb1d</mbid>
+        <url>http://www.last.fm/music/Dream+Theater</url>
+        <streamable>1</streamable>
+                    <image size="small">http://userserve-ak.last.fm/serve/34/5535004.jpg</image>
+            <image size="medium">http://userserve-ak.last.fm/serve/64/5535004.jpg</image>
+            <image size="large">http://userserve-ak.last.fm/serve/126/5535004.jpg</image>
+            </artist>
+             
+         
+    <artist rank="2">
+        <name>Dire Straits</name>
+        <playcount>770</playcount>
+        <mbid>614e3804-7d34-41ba-857f-811bad7c2b7a</mbid>
+        <url>http://www.last.fm/music/Dire+Straits</url>
+        <streamable>1</streamable>
+                    <image size="small">http://userserve-ak.last.fm/serve/34/135149.jpg</image>
+            <image size="medium">http://userserve-ak.last.fm/serve/64/135149.jpg</image>
+            <image size="large">http://userserve-ak.last.fm/serve/126/135149.jpg</image>
+            </artist>
+             
+         
+    <artist rank="3">
+        <name>Miles Davis</name>
+        <playcount>759</playcount>
+        <mbid>561d854a-6a28-4aa7-8c99-323e6ce46c2a</mbid>
+        <url>http://www.last.fm/music/Miles+Davis</url>
+        <streamable>1</streamable>
+                    <image size="small">http://userserve-ak.last.fm/serve/34/3800780.jpg</image>
+            <image size="medium">http://userserve-ak.last.fm/serve/64/3800780.jpg</image>
+            <image size="large">http://userserve-ak.last.fm/serve/126/183755.jpg</image>
+            </artist>
+</topartists></lfm>

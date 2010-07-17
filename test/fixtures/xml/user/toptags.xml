@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lfm status="ok">
+<toptags user="RJ">
+<tag>
+    <name>rock</name>
+    <count>16</count>
+    <url>www.last.fm/tag/rock</url>
+</tag>
+<tag>
+    <name>jazz</name>
+
+    <count>10</count>
+    <url>www.last.fm/tag/jazz</url>
+</tag>
+<tag>
+    <name>metal</name>
+    <count>10</count>
+    <url>www.last.fm/tag/metal</url>
+
+</tag>
+<tag>
+    <name>mellow</name>
+    <count>6</count>
+    <url>www.last.fm/tag/mellow</url>
+</tag>
+<tag>
+    <name>80s</name>
+    <count>6</count>
+
+    <url>www.last.fm/tag/80s</url>
+</tag>
+<tag>
+    <name>guitar</name>
+    <count>6</count>
+    <url>www.last.fm/tag/guitar</url>
+</tag>
+<tag>
+    <name>checkitout</name>
+
+    <count>5</count>
+    <url>www.last.fm/tag/checkitout</url>
+</tag>
+</toptags></lfm>
+

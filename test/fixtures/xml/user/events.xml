@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lfm status="ok">
+<events user="mokele" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" total="7">
+<event status="0">
+  <id>1030003</id>
+  <title>The Mars Volta</title>
+
+  <artists>
+    <artist>The Mars Volta</artist>
+    <headliner>The Mars Volta</headliner>
+  </artists>
+  <venue>
+    <id>8796717</id>
+    <name>Somerset House</name>
+    <location>
+      <city>London</city>
+      <country>United Kingdom</country>
+      <street>Strand</street>
+      <postalcode>WC2R 1LA</postalcode>
+      <geo:point>
+         <geo:lat>51.510732</geo:lat>
+         <geo:long>-0.116937</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8796717</url>
+  </venue>
+  <startDate>Mon, 13 Jul 2009 19:30:00</startDate>
+  <description><![CDATA[<div class="bbcode"><a href="http://www.nme.com/news/nme/44079" rel="nofollow">http://www.nme.com/news/nme/44079</a></div>]]></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/418205.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/418205.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/418205.jpg</image>
+   <attendance>99</attendance>
+   <reviews>0</reviews>
+   <tag>lastfm:event=1030003</tag>    
+  <url>http://www.last.fm/event/1030003</url>
+</event>
+<event status="0">
+  <id>1022812</id>
+  <title>Nine Inch Nails &amp; Jane's Addiction</title>
+
+  <artists>
+    <artist>Nine Inch Nails</artist>
+    <artist>Jane's Addiction</artist>
+    <artist>Mew</artist>
+    <headliner>Nine Inch Nails</headliner>
+  </artists>
+  <venue>
+    <id>8783707</id>
+    <name>O2 Arena</name>
+    <location>
+      <city>London</city>
+      <country>United Kingdom</country>
+      <street>Peninsular Square</street>
+      <postalcode>SE10 0DX</postalcode>
+      <geo:point>
+         <geo:lat>51.5017382136074</geo:lat>
+         <geo:long>0.00310377882291706</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8783707</url>
+  </venue>
+  <startDate>Wed, 15 Jul 2009 19:00:00</startDate>
+  <description><![CDATA[<div class="bbcode">FAQ:<br />
+1) What is the lineup?<br />
+Mew 7:00 - 7:30<br />
+Jane’s Addiction 7:45 - 9:15<br />
+Nine Inch Nails 9:30 - 11:00<br />
+2) When do presales/normal tickets enter?<br />
+NIN.com can pick up tickets at 3pm but must enter immediately and not leave. <br />
+3) How much is beer in the O2?<br />
+£4.30 for a warm plastic pint.<br />
+<br />
+NINE INCH NAILS have announced their only London show this summer at The O2 arena. The industrial rock legends will play the arena on Wednesday 15 July as part of their mammoth NINJA 2009 world tour. Enigmatic main man, Trent Reznor, has confirmed these will be the last NIN shows for some time, and that they will be &quot;much more raw, spontaneous and less scripted&quot; compared to last year's &quot;Lights in the Sky&quot; tour. &quot;It's time to make NIN disappear for a while&quot; he said.<br />
+<br />
+Nine Inch Nails, who will also be appearing at Sonisphere festival in Knebworth in August will be bringing along some very special guests to open the show, in the form of Jane's Addiction. The LA rockers return to the UK after many years absence with the classic line up of Perry Farrell, Dave Navarro, Eric Avery and Stephen Perkins, to warm up the crowd with classics such as Mountain Song, Ocean Size and Been Caught Stealing.<br />
+<br />
+Tickets go on sale on Friday 17 April at 9am.</div>]]></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/10629345.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/10629345.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/10629345.jpg</image>
+   <attendance>346</attendance>
+   <reviews>0</reviews>
+   <tag>lastfm:event=1022812</tag>    
+  <url>http://www.last.fm/event/1022812</url>
+</event>
+<event status="1">
+  <id>1058232</id>
+  <title>Polvo</title>
+
+  <artists>
+    <artist>Polvo</artist>
+    <artist>Obits</artist>
+    <headliner>Polvo</headliner>
+  </artists>
+  <venue>
+    <id>8826164</id>
+    <name>South Street Seaport</name>
+    <location>
+      <city>New York</city>
+      <country>United States</country>
+      <street>Fulton St &amp; South St, Pier 17</street>
+      <postalcode>10038</postalcode>
+      <geo:point>
+         <geo:lat>40.706903</geo:lat>
+         <geo:long>-74.003716</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8826164</url>
+  </venue>
+  <startDate>Fri, 31 Jul 2009 18:00:00</startDate>
+  <description><![CDATA[<div class="bbcode">6:00 p.m.<br />
+FREE</div>]]></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/207729.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/207729.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/207729.jpg</image>
+   <attendance>25</attendance>
+   <reviews>0</reviews>
+   <tag>lastfm:event=1058232</tag>    
+  <url>http://www.last.fm/event/1058232</url>
+</event>
+<event status="1">
+  <id>915248</id>
+  <title>Field Day 2009</title>
+
+  <artists>
+    <artist>Mogwai</artist>
+    <artist>Four Tet</artist>
+    <artist>Final Fantasy</artist>
+    <artist>Mystery Jets</artist>
+    <artist>The Horrors</artist>
+    <artist>Fennesz</artist>
+    <artist>Little Boots</artist>
+    <artist>Skream</artist>
+    <artist>Audion</artist>
+    <artist>Malcolm Middleton</artist>
+    <artist>Juana Molina</artist>
+    <artist>Erol Alkan</artist>
+    <artist>Toumani Diabate</artist>
+    <artist>Rusko</artist>
+    <artist>Fanfarlo</artist>
+    <artist>Errors</artist>
+    <artist>Fake Blood</artist>
+    <artist>Aeroplane</artist>
+    <artist>Woodpigeon</artist>
+    <artist>First Aid Kit</artist>
+    <artist>The Big Pink</artist>
+    <artist>Santigold</artist>
+    <artist>Delphic</artist>
+    <artist>Micachu and the Shapes</artist>
+    <artist>The Thing</artist>
+    <artist>The XX</artist>
+    <artist>Temper Trap</artist>
+    <artist>S.C.U.M</artist>
+    <artist>Wet Paint</artist>
+    <artist>Apes and Androids</artist>
+    <artist>Wild Geese</artist>
+    <headliner>Mogwai</headliner>
+  </artists>
+  <venue>
+    <id>8789850</id>
+    <name>Victoria Park</name>
+    <location>
+      <city>London</city>
+      <country>United Kingdom</country>
+      <street>Victoria Park</street>
+      <postalcode>E9</postalcode>
+      <geo:point>
+         <geo:lat>51.542837</geo:lat>
+         <geo:long>-0.039135</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8789850</url>
+  </venue>
+  <startDate>Sat, 01 Aug 2009 11:14:01</startDate>
+  <description><![CDATA[<div class="bbcode">Eat Your Own Ears Main Stage<br />
+EAT YOUR OWN EARS DJ'S<br />
+ERRORS<br />
+FENNESZ<br />
+FINAL FANTASY<br />
+FIRST AID KIT<br />
+MOGWAI<br />
+SANTIGOLD<br />
+SKREAM<br />
+THE HORRORS<br />
+THE TEMPER TRAP<br />
+<br />
+Adventures in the Beetroot Field Stage<br />
+APES AND ANDROIDS<br />
+FOUR TET<br />
+MICACHU AND THE SHAPES<br />
+MYSTERY JETS<br />
+S.C.U.M<br />
+THE BIG PINK<br />
+<br />
+Village Mentality Stage<br />
+JAMES YORKSTON<br />
+JUANA MOLINA<br />
+MALCOLM MIDDLETON<br />
+THE THING<br />
+TOUMANI DIABATE<br />
+WET PAINT<br />
+WOODPIGEON<br />
+<br />
+Bugged Out! Stage<br />
+AEROPLANE (DJ SET)<br />
+AUDION (LIVE)<br />
+EROL ALKAN<br />
+FAKE BLOOD<br />
+LITTLE BOOTS (LIVE)<br />
+<br />
+Bloggers Delight Stage<br />
+CASPER C (BLOGGERS DELIGHT)<br />
+NO PAIN IN POP DJS<br />
+RUSKO (DJ SET)<br />
+SKULL JUICE (BLOGGERS DELIGHT)<br />
+THE XX <br />
+<br />
+With many more to be announced soon… <br />
+<br />
+SATURDAY 1st AUGUST 2009 <br />
+VICTORIA PARK / LONDON / E9<br />
+TICKET PRICE: £29.50 + BF<br />
+TIME: 11.30 – 10.30PM <br />
+<br />
+<a href="http://www.fielddayfestivals.com" rel="nofollow">www.fielddayfestivals.com</a> / <a href="http://www.seetickets.com" rel="nofollow">www.seetickets.com</a> / <a href="http://www.ticketweb.co.uk" rel="nofollow">www.ticketweb.co.uk</a><br />
+<br />
+On the Saturday 1st August Field Day returns to Victoria Park for its third annual summer extravaganza. Field Day will be one of this summer’s essential festivals and with early bird tickets already sold out, you need to be quick off the mark to snap up yours before this event sells out. <br />
+<br />
+Kicking off proceedings for 2009, Field Day is ecstatic to announce Mogwai as their headline act. The critically acclaimed Scottish rock group, formed by Stuart Braithwaite and Dominic Aitchison in 1995, have since become one of the most influential and best known names in post-rock, they have curated the ATP Festival, sold out The Albert Hall, London and last year released their sixth album 'The Hawk Is Howling'. <br />
+<br />
+Drawing on influences from Joy Division, Pink Floyd, The Jesus and Mary Chain, My Bloody Valentine and post-rock pioneers Slint, Mogwai are the masters of the soft/loud dynamic, as they create a wall of sound that reaches beyond the tumultuous guitars, discovering twinkling optimism in fragile instrumentation and sensitive synths. The lyric-free songs are awe-inspiring and yet accessible.  <br />
+<br />
+Domino Record’s amazing ambient electro wizard, Four Tet, will be returning to Field Day, after his mind-blowing performance at its inaugural event two years ago, to play his first live set in London in over a year. Four Tet will be playing new material as he mixes up gloriously rich synthesizer arpeggios; crisp clusters of disco percussion and melodic flourishes.<br />
+<br />
+Former Arab Strap multi-instrumentalist Malcolm Middleton will also be making an appearance at this year’s Field Day. As part of the now-defunct Falkirk duo, he spent 11 years peddling seedy, sweaty tales of cheap booze, late nights and sexual perversion, and his burgeoning solo career seems to be running along the same thematic lines. Working with numerous luminaries from the Glasgow scene, it’s Malcolm and his songs, however, which are the stars here, confirming Middleton's status as one of the best songwriters of his generation.<br />
+<br />
+With the release of his fourth album, ‘When The Haar Rolls In’, at the end of last year, the softly spoken James Yorkston adds a wonderfully folkish element to Field Day’s line up that will complement its village fete vibe.  And adding a large slice of funk to this year’s event is Brooklyn’s eccentric party starters Apes and Androids.  With famed live performances involving cheerleaders, giant silver skulls and Korean drum circles, this is a band you don’t want to miss. <br />
+<br />
+Touted as natural successors to the mantle currently held by the likes of Battles, Hot Chip and LCD Soundsystem, Errors have been confirmed for a festival slot, plus Fennesz's pretty and melodic music, mixing bent instrumental pop, synth gurgles, white noise, ethereal vocal samples, serious Morricone vibes and much more will add to the spectacle, whilst Dubstep don DJ Skream will be laying down some deliciously jaw-wobbling bass.<br />
+<br />
+Brought to you by London’s most adventurous and daring promoters - Eat Your Own Ears, Adventures In The Beetroot Field, Bugged Out! – Field Day will bring you the most cutting edge line up of bands and DJs in the 2009 Festival season. The heart of East London will be transformed into a Village Fete; 'Village Mentality', a Village Green area within the festival will supply the masses with some countrified fun and games away from sound systems and stages.  Try your luck on the tombola, crack a few nuts on the coconut shy - or just sit on some haybales and stuff your face with homemade cake. Inspired by summer sports days and country fetes - Field Day's very own village green will host stalls and activities throughout the daytime, ranging from sack-racing, to whack-the-rat, Bowling for Bacon and lots more to be announced. Come along, have fun, eat baked goods, and as the country saying goes - &quot;be like an ant in the days of summer”…</div>]]></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/23639819.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/23639819.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/23639819.jpg</image>
+   <attendance>471</attendance>
+   <reviews>0</reviews>
+   <tag>lastfm:event=915248</tag>    
+  <url>http://www.last.fm/event/915248</url>
+</event>
+<event status="0">
+  <id>977575</id>
+  <title>Michael Jackson - This Is It!</title>
+
+  <artists>
+    <artist>Michael Jackson</artist>
+    <headliner>Michael Jackson</headliner>
+  </artists>
+  <venue>
+    <id>8783707</id>
+    <name>O2 Arena</name>
+    <location>
+      <city>London</city>
+      <country>United Kingdom</country>
+      <street>Peninsular Square</street>
+      <postalcode>SE10 0DX</postalcode>
+      <geo:point>
+         <geo:lat>51.5017382136074</geo:lat>
+         <geo:long>0.00310377882291706</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8783707</url>
+  </venue>
+  <startDate>Mon, 17 Aug 2009 18:30:00</startDate>
+  <description></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/294895.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/294895.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/294895.jpg</image>
+   <attendance>14</attendance>
+   <reviews>0</reviews>
+   <tag>lastfm:event=977575</tag>    
+  <url>http://www.last.fm/event/977575</url>
+</event>
+<event status="0">
+  <id>1048657</id>
+  <title>Deftones</title>
+
+  <artists>
+    <artist>Deftones</artist>
+    <headliner>Deftones</headliner>
+  </artists>
+  <venue>
+    <id>9005323</id>
+    <name>HMV Forum, Kentish Town, NW5 1JY</name>
+    <location>
+      <city>London</city>
+      <country>United Kingdom</country>
+      <street></street>
+      <postalcode></postalcode>
+      <geo:point>
+         <geo:lat>51.552028</geo:lat>
+         <geo:long>-0.141917</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/9005323</url>
+  </venue>
+  <startDate>Thu, 27 Aug 2009 19:00:00</startDate>
+  <description><![CDATA[<div class="bbcode"><a href="http://seetickets.com/see/event.asp?startno=20&amp;n|artist=null&amp;e|venaudit=HMV+Forum&amp;filler2=ven-srch&amp;filler1=see&amp;orderby=date" rel="nofollow">http://seetickets.com/see/event.asp?startno=20&amp;n|artist=null&amp;e|venaudit=HMV+Forum&amp;filler2=ven-srch&amp;filler1=see&amp;orderby=date</a></div>]]></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/383723.gif</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/383723.gif</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/383723.gif</image>
+   <attendance>103</attendance>
+   <reviews>0</reviews>
+   <tag>lastfm:event=1048657</tag>    
+  <url>http://www.last.fm/event/1048657</url>
+</event>
+<event status="0">
+  <id>1028116</id>
+  <title>ATP Nightmare Before Christmas curated by My Bloody Valentine</title>
+
+  <artists>
+    <artist>My Bloody Valentine</artist>
+    <artist>Sonic Youth</artist>
+    <artist>De La Soul</artist>
+    <artist>The Horrors</artist>
+    <artist>EPMD</artist>
+    <artist>Sun Ra Arkestra</artist>
+    <headliner>My Bloody Valentine</headliner>
+  </artists>
+  <venue>
+    <id>8790394</id>
+    <name>Butlins Holiday Resort</name>
+    <location>
+      <city>Minehead</city>
+      <country>United Kingdom</country>
+      <street></street>
+      <postalcode>TA24 5SH</postalcode>
+      <geo:point>
+         <geo:lat>51.206675</geo:lat>
+         <geo:long>-3.460693</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8790394</url>
+  </venue>
+  <startDate>Fri, 04 Dec 2009 11:26:01</startDate>
+  <endDate>Sun, 06 Dec 2009 11:26:01</endDate>
+  <description><![CDATA[<div class="bbcode">TICKETS ON SALE NOW - <br />
+<a href="http://www.seetickets.com/see/price.asp?code=389580&amp;filler1=see" rel="nofollow">http://www.seetickets.com/see/price.asp?code=389580&amp;filler1=see</a><br />
+<br />
+After the enormous success of last year’s sold out and mind-blowing UK tour and a brilliant turn as the inaugural curators for ATP New York, we are very pleased to announce that the curators for ATP: Nightmare Before Christmas, 2009 will be:<br />
+<br />
+MY BLOODY VALENTINE!<br />
+<br />
+The event will take place at Butlins Holiday Resort in Minehead, England from December 4th - 6th, 2009.<br />
+<br />
+So far confirmed to join the legendary sonic sculptors are:<br />
+<br />
+<a href="http://ws.audioscrobbler.com/music/Sonic+Youth" class="bbcode_artist">Sonic Youth</a><br />
+<a href="http://ws.audioscrobbler.com/music/De+La+Soul" class="bbcode_artist">De La Soul</a><br />
+<a href="http://ws.audioscrobbler.com/music/EPMD" class="bbcode_artist">EPMD</a><br />
+<a href="http://ws.audioscrobbler.com/music/+noredirect/Sun+Ra+Arkestra" class="bbcode_artist">Sun Ra Arkestra</a><br />
+<a href="http://ws.audioscrobbler.com/music/The+Horrors" class="bbcode_artist">The Horrors</a><br />
+<br />
+And of course, <a href="http://ws.audioscrobbler.com/music/My+Bloody+Valentine" class="bbcode_artist">My Bloody Valentine</a> themselves.<br />
+<br />
+Tickets are £150 for room only accommodation and £160 for self-catering accommodation. <br />
+<br />
+INSTALLMENT TICKETS<br />
+<br />
+We’ve also spared a thought for those of you who can’t come up with the money in the next two weeks.  ATP will again be running a deposit scheme for the festival to make it easier for some people to pay. We are offering a limited number of 4 berth apartments, both room-only and self-catering to be paid for with a small deposit upfront, and the remaining amount to be paid by the end of July. Both come with a booking fee of £7.50 per person (£30 per apartment).  These chalets will be sold at £150 per person room only or £160 per person self catered.<br />
+<br />
+People who would like to hold a 4 berth room only, must pay a deposit of £50 per person, (£200 for the apartment). The remaining £430 must be paid by July 31st.<br />
+<br />
+People who would like to hold a 4 berth self catering, must pay a deposit of £60 per person, (£240 for the apartment).  The remaining £430 must be paid by July 31st.<br />
+<br />
+As we will be holding the apartments for you, all deposits will be non-refundable, so please only apply if you are sure you can pay the remaining amount when it is due in July.<br />
+<br />
+If you are able to pay through a normal ticket agency upfront for your whole apartment, then please do so and don't use this scheme and leave the deposit scheme for those people who find it harder to get the full amount together in one go. Also, remember those using this scheme will not receive the two week discount tickets!<br />
+<br />
+You will be required to pay both instaments by either cheque or paypal. Please note, that all cheques must be received and cleared within 5 days of you being accepted into the deposit scheme. If your cheque does not clear, or is not received, your application will go to the bottom of the queue which may mean you do not get to participate in the scheme this year.<br />
+<br />
+Please email deposit (at) atpfestival.com if you would like to take part in the deposit scheme including: your name, address, which type of room you want (room only or self catering) and which payment method you would like to use (paypal or cheque). You will then be notified if your application was successful and details of how to pay by your chosen method, or if you are in a waiting line. Applicants in the waiting line may be accepted if earlier applicants fail to make the first deposit in time.<br />
+<br />
+All emails will be answered within 48 hours. Deposit applications will be granted on a first come first serve basis.<br />
+<br />
+ABOUT THE VENUE<br />
+<br />
+Butlins, Minehead looks out across a superb sandy beach. The site is equipped with a supermarket, newsagent, cash points and restaurants. Onsite facilities include a cinema, Splash Water World - a sub-tropical environment that has a huge wave pool, a swimming pool, 3 flumes and also a flume based raft ride - Ten-pin bowling and amusement arcade. Sports include Archery, Football, Basketball, Darts, Petanque, Fencing, Kwik Cricket, Netball, Rounders, Table Tennis, Outdoor Bowls and Crazy Golf.<br />
+<br />
+Room Only accommodation is available in 2, 3, 4, 5 and 6 berths and offers either double, single or bunk beds with private bathroom and TV, but no kitchen facilities or lounge, more like a hotel room. (£150 + booking fee per ticket)<br />
+<br />
+Self Catering accommodation is available in 4, 6 and 7 berths and offers private bathroom, full kitchen facilities and separate lounge area with TV. (£160 + booking fee per ticket)</div>]]></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/27005971.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/27005971.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/27005971.jpg</image>
+   <attendance>295</attendance>
+   <reviews>0</reviews>
+   <tag>lastfm:event=1028116</tag>    
+  <url>http://www.last.fm/event/1028116</url>
+</event>
+</events>
+</lfm>

@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lfm status="ok">
+    <events location="Manchester, United Kingdom" page="1" totalpages="38" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" total="378">
+        <event>
+            <id>926134</id>
+            <title>Feast - Picnic by the Lake</title>
+            <artists>
+                <artist>The Kingsize Five</artist>
+                <headliner>The Kingsize Five</headliner>
+            </artists>
+            <venue>
+                <name>Feast - Picnic by the Lake</name>
+                <location>
+                    <city>Manchester</city>
+                    <country>United Kingdom</country>
+                    <street></street>
+                    <postalcode></postalcode>
+                    <geo:point>
+                        <geo:lat>53.4766046620011</geo:lat>
+                        <geo:long>-2.2412109375</geo:long>
+                    </geo:point>
+                    <timezone>GMT</timezone>
+                </location>
+                <url>http://www.last.fm/venue/9002616</url>
+            </venue>
+            <startDate>Sat, 06 Jun 2009</startDate>
+            <description></description>
+            <image size="small">http://userserve-ak.last.fm/serve/34/10920341.jpg</image>
+            <image size="medium">http://userserve-ak.last.fm/serve/64/10920341.jpg</image>
+            <image size="large">http://userserve-ak.last.fm/serve/126/10920341.jpg</image>
+            <attendance>3</attendance>
+            <reviews>0</reviews>
+            <tag>lastfm:event=926134</tag>
+            <url>http://www.last.fm/event/926134</url>
+            <website>http://www.streetsahead.org.uk/projects-1-1.html</website>
+            <tickets>
+            </tickets>
+        </event>
+        <event>
+            <id>1046018</id>
+            <title>Bootleg Beatles</title>
+            <artists>
+                <artist>Bootleg Beatles</artist>
+                <headliner>Bootleg Beatles</headliner>
+            </artists>
+            <venue>
+                <name>Stockport RUFC</name>
+                <location>
+                    <city>Stockport</city>
+                    <country>United Kingdom</country>
+                    <street>Headlands Road</street>
+                    <postalcode>SK7 3AN</postalcode>
+                    <geo:point>
+                        <geo:lat>53.4</geo:lat>
+                        <geo:long>-2.15</geo:long>
+                    </geo:point>
+                    <timezone>GMT</timezone>
+                </location>
+                <url>http://www.last.fm/venue/9030455</url>
+            </venue>
+            <startDate>Sat, 06 Jun 2009</startDate>
+            <description></description>
+            <image size="small">http://userserve-ak.last.fm/serve/34/576978.jpg</image>
+            <image size="medium">http://userserve-ak.last.fm/serve/64/576978.jpg</image>
+            <image size="large">http://userserve-ak.last.fm/serve/126/576978.jpg</image>
+            <attendance>0</attendance>
+            <reviews>0</reviews>
+            <tag>lastfm:event=1046018</tag>
+            <url>http://www.last.fm/event/1046018</url>
+            <website></website>
+            <tickets>
+            </tickets>
+        </event>
+        <event>
+            <id>1070375</id>
+            <title>The Lucid Dream</title>
+            <artists>
+                <artist>The Lucid Dream</artist>
+                <artist>Yucatan</artist>
+                <artist>Daniel Land And The Modern Painters</artist>
+                <headliner>The Lucid Dream</headliner>
+            </artists>
+            <venue>
+                <name>Abode</name>
+                <location>
+                    <city>Manchester</city>
+                    <country>United Kingdom</country>
+                    <street>537-539 Wilbraham Road, Chorlton</street>
+                    <postalcode>M21 9LD</postalcode>
+                    <geo:point>
+                        <geo:lat>53.44225</geo:lat>
+                        <geo:long>-2.273655</geo:long>
+                    </geo:point>
+                    <timezone>GMT</timezone>
+                </location>
+                <url>http://www.last.fm/venue/8897275</url>
+            </venue>
+            <startDate>Sat, 06 Jun 2009</startDate>
+            <description></description>
+            <image size="small">http://userserve-ak.last.fm/serve/34/23013601.jpg</image>
+            <image size="medium">http://userserve-ak.last.fm/serve/64/23013601.jpg</image>
+            <image size="large">http://userserve-ak.last.fm/serve/126/23013601.jpg</image>
+            <attendance>0</attendance>
+            <reviews>0</reviews>
+            <tag>lastfm:event=1070375</tag>
+            <url>http://www.last.fm/event/1070375</url>
+            <website></website>
+            <tickets>
+            </tickets>
+        </event>
+        <event>
+            <id>805363</id>
+            <title>Oasis</title>
+            <artists>
+                <artist>Oasis</artist>
+                <artist>Kasabian</artist>
+                <artist>The Enemy</artist>
+                <artist>Twisted Wheel</artist>
+                <artist>Free Peace</artist>
+                <headliner>Oasis</headliner>
+            </artists>
+            <venue>
+                <name>Heaton Park</name>
+                <location>
+                    <city>Manchester</city>
+                    <country>United Kingdom</country>
+                    <street></street>
+                    <postalcode>M25 2SW</postalcode>
+                    <geo:point>
+                        <geo:lat>53.5</geo:lat>
+                        <geo:long>-2.2166667</geo:long>
+                    </geo:point>
+                    <timezone>GMT</timezone>
+                </location>
+                <url>http://www.last.fm/venue/8783065</url>
+            </venue>
+            <startDate>Sat, 06 Jun 2009</startDate>
+            <description></description>
+            <image size="small">http://userserve-ak.last.fm/serve/34/7394339.jpg</image>
+            <image size="medium">http://userserve-ak.last.fm/serve/64/7394339.jpg</image>
+            <image size="large">http://userserve-ak.last.fm/serve/126/7394339.jpg</image>
+            <attendance>223</attendance>
+            <reviews>0</reviews>
+            <tag>lastfm:event=805363</tag>
+            <url>http://www.last.fm/event/805363</url>
+            <website></website>
+            <tickets>
+            </tickets>
+        </event>
+    </events>
+</lfm>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<venue xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#">
+    <name>Karrera Klub</name>
+    <location>
+        <city>Berlin</city>
+        <country>Germany</country>
+        <street>Neue Promenade 10</street>
+        <postalcode>10178</postalcode>
+        <geo:point>
+            <geo:lat>52.532019</geo:lat>
+            <geo:long>13.427965</geo:long>
+        </geo:point>
+        <timezone>CET</timezone>
+    </location>
+    <url>http://www.last.fm/venue/9027137</url>
+</venue>

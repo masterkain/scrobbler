@@ -1,0 +1,5 @@
+* v 0.2.13: Nearly all API calls are now done via version 2.0 of the API
+* v 0.2.10: Upgraded to using the 2.0 API for parts of the code and added in the ability to search
+* v 0.2.2: a bunch of changes from titanous, mostly refactoring
+* v 0.2.0: added support for scrobbling tracks and now playing submission (Titanous)
+* v 0.1.0: initial release

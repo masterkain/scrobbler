@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lfm status="ok">
+    <event xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" >
+        <id>328799</id>
+        <title>Philip Glass</title>
+        <artists>
+            <artist>Philip Glass</artist>
+            <artist>Orchestra and Chorus of Erfurt Theatre</artist>
+            <headliner>Philip Glass</headliner>
+        </artists>
+        <venue>
+            <name>Barbican Centre</name>
+            <location>
+                <city>London</city>
+                <country>United Kingdom</country>
+                <street>Silk Street</street>
+                <postalcode>EC2Y 8DS</postalcode>
+                <geo:point>
+                    <geo:lat>51.519972</geo:lat>
+                    <geo:long>-0.09334</geo:long>
+                </geo:point>
+            </location>
+            <url>http://www.last.fm/venue/8777860</url>
+        </venue>
+        <startDate>Thu, 12 Jun 2008 19:30:00</startDate>
+        <description>Nunc vulputate, ante vitae sollicitudin ullamcorper, velit eros ultricies libero.</description>
+        <image size="small">http://userserve-ak.last.fm/serve/34/320636.jpg</image>
+        <image size="medium">http://userserve-ak.last.fm/serve/64/320636.jpg</image>
+        <image size="large">http://userserve-ak.last.fm/serve/126/320636.jpg</image>
+        <url>http://www.last.fm/event/328799</url>
+        <attendance>46</attendance>
+        <reviews>0</reviews>
+        <tag>lastfm:event=328799</tag>
+    </event>
+</lfm>

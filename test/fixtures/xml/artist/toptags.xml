@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lfm status="ok">
+<toptags artist="Metallica">
+<tag>
+    <name>metal</name> 
+    <count>100</count>
+    <url>http://www.last.fm/tag/metal</url>
+</tag>
+<tag>
+    <name>thrash metal</name> 
+    <count>95</count>
+    <url>http://www.last.fm/tag/thrash%20metal</url>
+</tag>
+<tag>
+    <name>heavy metal</name> 
+    <count>68</count>
+    <url>http://www.last.fm/tag/heavy%20metal</url>
+</tag>
+</toptags></lfm>
