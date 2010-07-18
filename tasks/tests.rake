@@ -1,3 +1,4 @@
+=begin
 desc "Run all tests"
 Spec::Rake::SpecTask.new('test:unit') do |t|
   begin
@@ -11,3 +12,4 @@ Spec::Rake::SpecTask.new('test:unit') do |t|
   t.spec_opts << '--format' << 'progress'
   t.spec_files = FileList['test/unit/*_spec.rb']
 end
+=end
